@@ -85,6 +85,7 @@ def main():
         "https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt",
         "https://frees.iserver.store:2096/sub/Kevin-Frankfurt?",
         "https://free2s.iserver.store:2096/sub/Kevin-Frankfurt2?",
+        "https://github.com/qjlxg/.proxy/raw/refs/heads/main/all",
         "http://162.55.223.25:443/sub/vDhhXZJ7",
         "https://github.com/qjlxg/ss/raw/refs/heads/master/list_raw.txt",
         "http://65.21.158.249:2096/sub/VbCim1uK?",
