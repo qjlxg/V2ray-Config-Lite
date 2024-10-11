@@ -59,7 +59,7 @@ def filter_for_protocols(data, protocols):
             filtered_data.append(line)
     return filtered_data
 
-# Create necessary directories if they don't exist
+# Create necessary directories if they don"t exist
 def ensure_directories_exist():
     output_folder = os.path.abspath(os.path.join(os.getcwd(), ".."))
     base64_folder = os.path.join(output_folder, "Base64")
@@ -77,22 +77,22 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
-        'https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt',
-        'https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt',
-        'https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1',
-        'https://mrpooyax.camdvr.org/api/ramezan/run.php?sub=1',
-        'https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix',
-        'https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1',
-        'https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks',
-        'https://raw.githubusercontent.com/ts-sf/fly/main/v2'
-        'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub'
-        'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
+        "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
+        "https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt",
+        "https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1",
+        "https://mrpooyax.camdvr.org/api/ramezan/run.php?sub=1",
+        "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
+        "https://mrpooyax.camdvr.org/api/ramezan/alpha.php?sub=1",
+        "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
+        "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/donated",
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
+        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
+        "https://raw.githubusercontent.com/ts-sf/fly/main/v2"
+        "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+        "https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt"
         "https://raw.githubusercontent.com/coldwater-10/V2Hub3/main/merged_base64",
         "https://raw.githubusercontent.com/coldwater-10/V2Hub4/main/merged_base64",
         "https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/merged_base64",
@@ -129,15 +129,15 @@ def main():
         "https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/splitted/ssr.txt",
         "https://raw.githubusercontent.com/coldwater-10/HiN-VPN/main/subscription/normal/tuic",
         "https://raw.githubusercontent.com/coldwater-10/HiN-VPN/main/subscription/normal/hysteria",
-        'https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config',
-        'https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config',
-        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
-        'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix',
-        'https://mrpooya.top/api/lena.php'
-        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt'
-        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt'
-        'https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt'
-        'https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt'
+        "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+        "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
+        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
+        "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix",
+        "https://mrpooya.top/api/lena.php"
+        "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
+        "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt"
+        "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt"
+        "https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt"
     ]
 
     decoded_links = decode_links(links)
