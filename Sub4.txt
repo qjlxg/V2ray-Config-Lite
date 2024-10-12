@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.105:5601#4FreeIran-3879
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.105:9090#4FreeIran-3880
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.107:3306#4FreeIran-3881
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.107:3389#4FreeIran-3882
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.107:5000#4FreeIran-3883
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.12:3389#4FreeIran-3884
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.12:8888#4FreeIran-3885
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.35:5000#4FreeIran-3886
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.35:8888#4FreeIran-3887
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.3:5601#4FreeIran-3888
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.43:5601#4FreeIran-3889
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.46:5000#4FreeIran-3890
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.67:8888#4FreeIran-3891
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.88:5600#4FreeIran-3892
@@ -3603,3 +3592,14 @@ trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#4Fre
 trojan://c2b0a060-44b0-11ed-ad2e-1239d0255272@51.81.82.15:443?security=tls#4FreeIran-7476
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?allowInsecure=1#4FreeIran-7477
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?type=tcp&allowInsecure=1#4FreeIran-7478
+trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@waphk.mjt000.com:443?allowInsecure=1#4FreeIran-7479
+trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443?allowInsecure=1#4FreeIran-7480
+trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443?security=tls&allowInsecure=1&type=tcp#4FreeIran-7481
+trojan://c471ef32-798d-40a0-a57c-acf3475a204e@naiu-hk.05vr9nyqg5.download:13008?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#4FreeIran-7482
+trojan://c471ef32-798d-40a0-a57c-acf3475a204e@naiu-jp.05vr9nyqg5.download:13011?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#4FreeIran-7483
+trojan://c471ef32-798d-40a0-a57c-acf3475a204e@naiu-sg.05vr9nyqg5.download:13027?security=tls&sni=sni=cloudflare.node-ssl.cdn-alibaba.com#4FreeIran-7484
+trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443?allowInsecure=1&sni=tr.test3.net#4FreeIran-7485
+trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443?security=tls&sni=tr.test3.net&allowInsecure=1&type=tcp#4FreeIran-7486
+trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe#4FreeIran-7487
+trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#4FreeIran-7488
+trojan://c60fbf90-4b55-11ed-b935-225401db9d57@de.tjvpn.org:443?security=tls#4FreeIran-7489
