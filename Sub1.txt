@@ -69,7 +69,6 @@ ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2TWpVd09XWTVaVGN0T1ROaE5pMDBZV016TFdKa016UXRaR1k
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2TWpVd09XWTVaVGN0T1ROaE5pMDBZV016TFdKa016UXRaR1kyTW1VNE1Ea3pOekZrQDM4LjE1MC4xMi4xODc6NTAyMDM=#%E7%BE%8E%E5%9B%BD_101228093
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Wkpka1hMMGdza05zcXRrbDc4NFQ2QDYyLjEzMy42MC42MDoyMTcxMg==#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012832
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTE1LjE4OS4yMDE6NDQz#TG%E9%A2%91%E9%81%93%40MFBPN
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA1NC4zNy4xOC43NTo4MDAw#%5B80%5D%E6%B3%95%E5%9B%BDFrance
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2YzJoaFpHOTNjMjlqYTNNQDIxMi4xMDIuNTMuODE6NDQz#%E8%8B%B1%E5%9B%BD_1012273
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NVl5Y3UyY1Z4b2h2UGhrbEN6Z0hQNitJanNqUTZEK0FCUTdQNlM5SUtBPUAxOTUuMzUuMTEzLjc5OjQ0Mw==#%5B79%5D%E8%8B%B1%E5%9B%BD_1012043
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGFhMDBjZS1mZjlhLTRhOGEtYjNkMC0yN2ZmZTY0MWUzMzdAc29vbnJ1LnNvb24uZ3VydTo0MDAzMQ==#%E4%BF%84%E7%BD%97%E6%96%AF
@@ -155,13 +154,11 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjIwMi4xOTM6NDQz#%E8%8D%B7%E5%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M0QzeEZ1d1B4S0lacUo2NkxuS056QDUxLjE1OC4yNTIuMTMwOjQ0Mw==#%5B80%5D%E6%B3%95%E5%9B%BDParis%2C%2BIDF%2C%2BFrance
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVDBBQW8wOWdBSVlTeVAxSFdUVjB2QDYyLjIxMC44OC4yMjo0NDM=#%F0%9F%94%92+SS-TCP-NA+%E6%B3%95%E5%9B%BD-62.210.88.22%3A443
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjIwMi4xOTI6NDQz#%E8%8D%B7%E5%85%B051.158.202.192
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDU0LjM3LjE4Ljc1OjcwMDI=#%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDM4LjkxLjEwMC4xOTk6NTAwNA==#%5B81%5D%E7%BE%8E%E5%9B%BDNew%2BYork%2C%2BNY%2C%2BUnited%2BStates
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMTM5LjY0LjE2NS42Mzo1NDk4#%5B68%5D%E7%BE%8E%E5%9B%BDDenver%2C%2BCO%2C%2BUnited%2BStates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmZkYzczZC0wYmZmLTRkNjYtOTc1OS1lODFjNjNkZTE2YjZAeWQxLnFpYW5nZ2V3YW5nbHVvLmJ1eno6MTA4MTM=#%3E%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%7CLs%7C0816%7CTG%40FProxies%7C
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMjMuMTU3LjQwLjU6ODAwOQ==#%5B81%5D%E7%BE%8E%E5%9B%BDSanta%2BClara%2C%2BCA%2C%2BUnited%2BStates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmZkYzczZC0wYmZmLTRkNjYtOTc1OS1lODFjNjNkZTE2YjZAeWQxLnFpYW5nZ2V3YW5nbHVvLmJ1eno6MTA4MDk=#%3E%E6%97%A5%E6%9C%AC%7CLs%7C0816%7CTG%40FProxies%7C
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NANTQuMzcuMTguNzU6ODg4OA==#%5B80%5D%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTEyOC1nY206NGQ4NWRjNTctNzM0MC00NDI0LWE5YWEtMjg4YzJlNTE5NjJjQDM2LjE1Ni4xOTguNDM6MzAxMDQ=#%E4%B8%AD%E5%9B%BD_1012057
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMjMuMTU3LjQwLjk1OjkwOTA=#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-23.157.40.95%3A9090
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQ1LjIzOS42LjIwMjo4ODg4#%5B78%5D%E6%B3%95%E5%9B%BD_1012313
@@ -357,7 +354,6 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC44Ni4xMzUuMjI1OjgwODA=#%5B81%5D%E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaUkk4ZW5rbVh6VGpvWmZPTkZLQVFZYWlPSGpTeUNjQ05FZWVnc0lobHBaNWxUdEVAMTk1LjEzMy4xMS4yMTU6NTEzNDg=#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+SS-TCP-NA+4%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVUd0WUFvc0p5ak9yV2Z2bXJJQ0hvQDkyLjExOC4xMTIuMTAxOjk0ODM=#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012935
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAzLjE5Ny4yMTU6NDQz#%5B80%5D%5B68%5D4Sarina-2154
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDU0LjM3LjE4Ljc1OjUwMDQ=#%5B81%5D%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDM4Ljg2LjEzNS4yMjU6ODg4Mg==#%5B101%5D%5B80%5D%E7%BE%8E%E5%9B%BDWashington%2C%2BDC%2C%2BUnited%2BStates
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDM4Ljg2LjEzNS4yMjU6ODg4MQ==#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-38.86.135.225%3A8881
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDIzLjE1Ny40MC4xMDM6ODg4MQ==#%5B101%5D%5B78%5D%E7%BE%8E%E5%9B%BDSanta%2BClara%2C%2BCA%2C%2BUnited%2BStates
@@ -404,7 +400,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEem1wV1UwQkpnZUFINWJUN1FyY3J4QDg5LjExMC43MC4
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDg1LjIwOC4xMDguMTg6NDQz#%E6%97%A5%E6%9C%AC%E2%A9%A9JP%E2%A9%A9%E1%8F%9E%E1%9D%AA%E1%91%8E%E1%91%8C%E1%91%AD%F0%96%A1%BA%D9%84%D9%88%D9%86%D8%A7%D9%BE%E2%A9%A9441
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSUZLM21SUURGSmNaYWQyZlBlbFhvQDYyLjEzMy42MC42MDoyMTcxMg==#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012840
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAyMy4xNTAuMTUyLjU2OjU1MDA=#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-23.150.152.56%3A5500
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDU0LjM3LjE4Ljc1OjgxMTg=#%5B68%5D%5B68%5D%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDM4Ljg2LjEzNS4yMjU6NzAwMg==#%5B102%5D%E7%BE%8E%E5%9B%BD-38.86.135.225-4255
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDM4Ljg2LjEzNS4yMjU6NzAwMQ==#%5B76%5D%E7%BE%8E%E5%9B%BD_101213888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYXJyN2JHMUh6aWd4UzdtblFybjIwQDYyLjEzMy42MC42MDoyMTcxMg==#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012841
@@ -607,7 +602,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDM1Y2E2Ny0xNmFjLTRlYTUtOTBjNS02ZjcwZTRiZTU
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTcuMTI4Ljc1Ljg0OjQ0Mw==#%E6%B3%95%E5%9B%BD57.128.75.84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSV2VQZm9PN21HTmlRc0gwQHNlcmllcy1hMi1tZWMuc2FtYW5laGhhLmNvOjQ0Mw==#proxy_mtm
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU5LjIyMS4yMzA6NDQz#%E6%B3%95%E5%9B%BD51.159.221.230
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDY5LjUwLjkyLjcyOjg4ODE=#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-69.50.92.72%3A8881
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDY5LjUwLjkyLjcyOjg4ODI=#RELAY%F0%9F%9A%A9+%7C+69.50.92.72-8882+%7C+54.99ms
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU5LjIyMS4yMzE6NDQz#%E6%B3%95%E5%9B%BD51.159.221.231
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjE1LjQ5Ljg5OjQ0Mw==#%E6%96%B0%E5%8A%A0%E5%9D%A1-13.215.49.89-2412
@@ -996,7 +990,6 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURVQDQzLjIwMS4yNTQuNzQ6NDQz#%E
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NANjkuNTAuOTUuMTE1Ojg4ODg=#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-69.50.95.115%3A8888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFltQDQ1LjE1OC4xNzEuMjk6ODA4MA==#%F0%9F%94%92+SS-TCP-NA+%E6%B3%95%E5%9B%BD-45.158.171.29%3A8080
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC43NS4xMzcuNzE6ODA4MA==#%5B79%5D%E7%BE%8E%E5%9B%BD_10125291
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQDM1LjE3OS4yMTkuMjAyOjQ0Mw==#%F0%9F%94%92+SS-TCP-NA+%E8%8B%B1%E5%9B%BD-35.179.219.202%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNGQ0NGJlZC0zNDU3LTQ1Y2UtOTQxOS1kNzQyZGQxNTViYTZAYXBpLXd4LTUucmFuY2hvLmdheTo1MDExNw==#%E7%BE%8E%E5%9B%BDUnited+States+03%7CIEPL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNGQ0NGJlZC0zNDU3LTQ1Y2UtOTQxOS1kNzQyZGQxNTViYTZAYXBpLXd4LTUucmFuY2hvLmdheTo1MDExOA==#%E7%BE%8E%E5%9B%BDUnited+States+04%7CIEPL
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNDMuMjQ0LjYyLjEwNjo5ODk=#%5B80%5D%5Bbutnono%5D%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%40vpn_proxy66_109
@@ -1033,7 +1026,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFltQDQ1LjE1OC4xNzEuMzU6ODA4MA==#%F0%9F%94%92+SS-TCP-NA+%E6%B3%95%E5%9B%BD-45.158.171.35%3A8080
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzOS42NC4xNjUuMTE1Ojg4ODE=#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-139.64.165.115%3A8881
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguMTIxLjQzLjk3OjMzMDY=#%5B78%5D%E7%BE%8E%E5%9B%BD_101216788
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFltQDQ1LjE1OC4xNzEuMzY6ODA4MA==#%F0%9F%94%92+SS-TCP-NA+%E6%B3%95%E5%9B%BD-45.158.171.36%3A8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4YXBXM3BqZXA5SjRyS2FZSGlXTHU1QDE2Ny45OS4yMTYuMjM2OjUwMjUw#%E8%8D%B7%E5%85%B0_10121271
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDEzOS42NC4xNjUuMjMwOjIzNzY=#US%E7%BE%8E%E5%9B%BD%7C+139.64.165.230-2376+%7C+51.63ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzYyM2RjZi04MmRiLTRiNWMtODllNC0zODg1ZmM0YzNkODZAaWVwbDIuZm9ybGl2ZS5saXZlOjUwMDA2#%5B81%5D%3EBeta%7C%E8%81%94%E5%90%88%E5%9B%BDFP%7CNs%7C0720%7CTG%40FProxies%7C
@@ -1091,7 +1083,6 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC43NS4xMzYuMjE6ODA4MA==#2022.06.08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIMFVRVmtudjY4Zk1ybkNOcFh1WENXQDg5LjExMC43MC4xNzU6MTM0MDI=#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_10121082
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDIzLjE1Ny40MC4xMjA6NjY3OQ==#%E7%BE%8E%E5%9B%BD-23.157.40.120-4627
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQyLjIwMi40OS43NDo4MDA4#%5B78%5D%E7%BE%8E%E5%9B%BD_101217041
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDU0LjM3LjE4Ljc1Ojg4ODE=#%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE2Ny44OC42MS4xNTk6ODExOA==#%5B1808.ga%5D%5Bfreefq%5D1%2C3%2C195%7C%E7%BE%8E%E5%9B%BD_1538+...
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAyMy4xNTAuMTUyLjU2OjgwMDA=#%5B68%5D%5B78%5D%E7%BE%8E%E5%9B%BDLos%2BAngeles%2C%2BCA%2C%2BUnited%2BStates
 ss://YWVzLTEyOC1nY206ODNYdlg0Vm8lKjNhQDc0LjEyMS4xOTEuNTM6NDQz#%E7%BE%8E%E5%9B%BD_101217061
@@ -1477,8 +1468,6 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC44Ni4xMzUuMTE3OjgwODA=#%5B68%5D%5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZjB4OFpiN0tTVUhWQ0c1OGVVWW5tQDg5LjExMC43MC4xNzU6MTM0MDI=#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_10121059
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMjMuMTUwLjE1Mi4xNjo1MDAx#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-23.150.152.16%3A5001
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTQyLjE4My4yMzU6NDQz#%E6%96%B0%E5%8A%A0%E5%9D%A1-18.142.183.235-4668
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDU0LjM3LjE4Ljc1OjczMDY=#%5B68%5D%5B78%5D%E6%B3%95%E5%9B%BDFrance
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDU0LjM3LjE4Ljc1OjczMDc=#%5B68%5D%5B78%5D%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OS43OTozMzA2#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-142.202.49.79%3A3306
 ss://YWVzLTEyOC1nY206YWIyNzdiMzctODEyNC00NGZjLTg1MmMtMTNjZTk3Y2Y0OWFhQHNzLnNncGxpbmsueHl6OjIwNjQ0#%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8B%AE%E5%9F%8E+04
 ss://YWVzLTEyOC1nY206YWIyNzdiMzctODEyNC00NGZjLTg1MmMtMTNjZTk3Y2Y0OWFhQHNzLnNncGxpbmsueHl6OjIwNjQz#%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8B%AE%E5%9F%8E+03
@@ -1609,7 +1598,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zOC4xMDIuMTg5OjQ0Mw==#%F0%9F%94%92+SS-TC
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDIzLjE1Ny40MC45NTo2Njc5#%5B78%5D%E6%9C%AA%E7%9F%A5_101212903
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjIwMi4yNTA6NDQz#%E8%8D%B7%E5%85%B0-51.158.202.250-0216
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDM4LjEyMS40My45Nzo2Mzc5#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-38.121.43.97%3A6379
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQDE1LjE4NC41Ny41OjQ0Mw==#%F0%9F%94%92+SS-TCP-NA+%E5%B7%B4%E6%9E%97-15.184.57.5%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNGQ0NGJlZC0zNDU3LTQ1Y2UtOTQxOS1kNzQyZGQxNTViYTZAYXBpLWEtYXNpYS0xLm1jcXFuLmNvbTo2MTAwNw==#%E9%A6%99%E6%B8%AFTraffic%3A+281.21+GB+%7C+280+GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNGQ0NGJlZC0zNDU3LTQ1Y2UtOTQxOS1kNzQyZGQxNTViYTZAYXBpLWEtYXNpYS0xLm1jcXFuLmNvbTo2MTAwOA==#%E9%A6%99%E6%B8%AFHong+Kong+02%7CA
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDIzLjE1Ny40MC45NTo2Njk3#%5B78%5D%E6%9C%AA%E7%9F%A5_101212920
@@ -1642,7 +1630,7 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE0Mi4yMDIuNDkuNjg6NzMwNw==#%5B78%5D%E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAzZDI0Zi1iOGU0LTQ0MTAtYTI0ZS1jMmMzNDgyODFlNzFAaWhrLnRhcmlvYmxpbmsubWU6MjIzNDc=#%E4%B8%AD%E5%9B%BD_1012451
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAzZDI0Zi1iOGU0LTQ0MTAtYTI0ZS1jMmMzNDgyODFlNzFAaWhrLnRhcmlvYmxpbmsubWU6MjIzNDk=#%E4%B8%AD%E5%9B%BD_1012452
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA2OS41MC45Mi44NTo1NTAw#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-69.50.92.85%3A5500
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMjMuMTUwLjE1Mi40MTo1NDk4#ChatGPT+%E7%BE%8E%E5%9B%BD_733
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMjMuMTUwLjE1Mi40MTo1NDk4#ChatGPT+%E7%BE%8E%E5%9B%BD_1198
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAyMy4xNTcuNDAuMTEzOjU1MDA=#%5B68%5D%5B79%5D%E7%BE%8E%E5%9B%BDSanta%2BClara%2C%2BCA%2C%2BUnited%2BStates
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDIzLjE1Ny40MC44Nzo2Njc5#%5B1808.ga%5D%5Bfreefq%5D511%7CUS298+1.9M...
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NANTQuMzYuMTc0LjE4MTo4ODg4#%5B1808.ga%5D%5Bfreefq%5D332%2C335%7C%E6%B3%A2%E5%85%B0+2+%E2%86%92+...
@@ -2018,7 +2006,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZDI5ZDdhZC01ZmRhLTRmNjQtYTU3ZS03MTZjYTYwMTB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZDI5ZDdhZC01ZmRhLTRmNjQtYTU3ZS03MTZjYTYwMTBlNjVAMTIyLjE5NS4xODkuMTU6MTA3MDI=#%E4%B8%AD%E5%9B%BD-122.195.189.15-0299
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTAuMS4yMDM6NTUwMA==#%5B68%5D%5B76%5D%E7%BE%8E%E5%9B%BD_101221334
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAyMy4xNTcuNDAuOTU6ODAwMA==#%5B78%5D%E6%9C%AA%E7%9F%A5_10126692
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZANTQuMzcuMTguNzU6NTQ5OA==#%E6%B3%95%E5%9B%BDFrance
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRANjkuNTAuOTUuMTAxOjgwMDg=#%F0%9F%94%92+SS-TCP-NA+%E7%BE%8E%E5%9B%BD-69.50.95.101%3A8008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHc3pvaHFYWkd0SVZyekpGdjF0cnBzQDkyLjExOC4xMTIuMTAxOjk0ODM=#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012979
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmaVlnVUVtV2EzTXdINlk2eWNWRll3aTF2TElRUVMyTmZoQklQdlI1Wjk0dVR6TnhAMTg1LjIwNC4yLjI0Mzo1MTM0OA==#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012429
@@ -2076,7 +2063,6 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDM4Ljc1LjEzNy40Mjo3MDAy#%E7%BE%8E%E5%9
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMjEuNDMuMjA0OjgwMDA=#%5B79%5D%E7%BE%8E%E5%9B%BD_101221573
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDIzLjE1Ny40MC4xMTM6NjM3OQ==#%5B81%5D%E7%BE%8E%E5%9B%BDSanta%2BClara%2C%2BCA%2C%2BUnited%2BStates
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzOS42NC4xNjUuMTQ0OjgxMTg=#%5B101%5D%5B78%5D%E7%BE%8E%E5%9B%BD_101221594
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQDM1LjE3OS4yMTkuMjAyOjQ0Mw==#%F0%9F%94%92+SS-TCP-NA+%E8%8B%B1%E5%9B%BD-35.179.219.202%3A443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTAuMTIwLjIzMS40NTo5ODk=#%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A-190.120.231.45-0775
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM0Ljk6NTAwMA==#%5B78%5D%E7%BE%8E%E5%9B%BD_101210346
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM0Ljk6NTAwMQ==#RELAY%F0%9F%9A%A9+%7C+38.68.134.9-5001+%7C+36.47ms
@@ -2223,7 +2209,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAzZDI0Zi1iOGU0LTQ0MTAtYTI0ZS1jMmMzNDgyODF
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FAMTYyLjE5LjE3MC4yMjI6NDQz#%E5%BE%B7%E5%9B%BD162.19.170.222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WHIxZlBaWVBmdGEyNjZaYjZ5SkxKQDg5LjExMC43MC4xNzU6MTM0MDI=#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_10121032
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FAMTYyLjE5LjE3MC4yMjE6NDQz#%E5%BE%B7%E5%9B%BD162.19.170.221
-ss://cmM0LW1kNTp1WWhWQTE2MFpvU2czQUk1QDM2LjEzNC4xMTUuMjE3OjY3MDA=#%E4%B8%AD%E5%9B%BD-36.134.115.217-0443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETlhEakpQMnBncjFJUnNPVUkwRVJ5QDg5LjExMC43MC4xNzU6MTM0MDI=#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_10121087
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjEyLjI0NC4yOTo0NDM=#%E2%9F%AA%40LonUp_M%E2%9F%AB%E2%81%9B238
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTg6NDQz#%E8%8B%B1%E5%9B%BD-212.102.53.198-0803
@@ -2423,7 +2408,6 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDM4LjExMC4xLjEwNTo1MDAz#RELAY%F0%9F%9A
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TEAxMDcuMTczLjExNC42OjE2ODk5#%5B1808.ga%5D%5Bfreefq%5D1%2C3%2C195%7C%E7%BE%8E%E5%9B%BD_1605+...
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM1pqVmtNRGd3WlMwNFpHUmxMVFJpTkRjdFlXSm1OeTB3WWpRME1ESTFNVEJtWXpjQHNvb25oay5zb29uLmd1cnU6NDAwMDA=#14%7C%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVXFNYUlkdkxzOXpxUklGdDVueDJvQDEzOC4xMjQuMTg0LjcwOjM0ODY4#%E7%BE%8E%E5%9B%BD_101228121
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFltQDE5My4yOS4xMzkuMjQ4OjgwODA=#%E8%8D%B7%E5%85%B0-193.29.139.248-0418
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoM2x5Q3VsM1RnRUFuTXFuVUhxZnVOQDUxLjE1OC4yNTIuMTMwOjQ0Mw==#%E6%B3%95%E5%9B%BD_1012566
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguODYuMTM1LjIyNTo4ODg4#%5B1808.ga%5D%5Bfreefq%5D335%2C511%7CUS417+1.9M...
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMzguMTEwLjEuMjAzOjU0OTk=#%5B78%5D%E7%BE%8E%E5%9B%BD_101212128
@@ -2455,7 +2439,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OS43NDo4ODg4#%5B101%5D%5B68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNGQ0NGJlZC0zNDU3LTQ1Y2UtOTQxOS1kNzQyZGQxNTViYTZAYXBpLWEtYXNpYS0zLm1jcXFuLmNvbTo2MTAyMA==#%E6%96%B0%E5%8A%A0%E5%9D%A1Singapore+02%7CA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNGQ0NGJlZC0zNDU3LTQ1Y2UtOTQxOS1kNzQyZGQxNTViYTZAYXBpLWEtYXNpYS0zLm1jcXFuLmNvbTo2MTAxOQ==#%E6%96%B0%E5%8A%A0%E5%9D%A1Singapore+01%7CA
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjE1LjE2MS4xNjo0NDM=#4Sarina-873
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZTkxYTI5YS05ODlkLTQ5MzQtYTFmYi03YjY1MzMxOTM5N2ZAaWVwbDEuZm9ybGl2ZS5saXZlOjUwMTAx#ChatGPT+%E9%A6%99%E6%B8%AF_251
 ssr://aW5sYXllcjcuc3RhbmR1cmxzLmNvOjU2MDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TWpVME5ETTZTbk51ZW10d1p6ZzRPQSZyZW1hcmtzPTZaaXk1YVN4NXBXSVoybDBhSFZpTG1OdmJTOU1aVzl1TkRBMklPbVlzdVdrc2VhVmlHZHBkR2gxWWk1amIyMHZUR1Z2YmpRd05pQWc2Wml5NWFTeDVwV0laMmwwYUhWaUxtTnZiUzlNWlc5dU5EQTJJQ0RwbUxMbHBMSG1sWWhuYVhSb2RXSXVZMjl0TDB4bGIyNDBNRFlnNlppeTVhU3g1cFdJWjJsMGFIVmlMbU52YlM5TVpXOXVOREEySUZ0RFZDOURUVjBnU0V0VUlFWSZncm91cD0=
 ssr://MTk4LjI1NS4xMDMuNjI6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUT0vP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OVh6RXdNVEl5TkRNeU1RJmdyb3VwPTZLKzM2SzZpNlppRjVwV3k2WmVvNTZDVzZhS1I2WUdUTGVXSWh1UzZxK2FWc3VtWHFPZWdsdWluaHVtaWtR
 ssr://dGFjbS5peDIuZWRnZS5rdW5sdW5hZS5jb206MzA1MjM6YXV0aF9jaGFpbl9hOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpiVkJSTlVNNS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPU5ESXlORFE1TkRBNlRWaG1kalUyJnJlbWFya3M9NmFhWjVyaXY2YXVZNllDZk5GdFdTVkJkUUdsMGMxOXJhbTlzWTJNJmdyb3VwPQ==
@@ -2531,7 +2514,6 @@ trojan://95b@192.200.160.19:8443#%E7%BE%8E%E5%9B%BD_101227580
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.142:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101221991
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:33620?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1012148
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.195:443?allowInsecure=1&sni=jp6.pqjc.buzz#4Sarina-6701
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:11604?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E6%97%A5%E6%9C%AC+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B902
 trojan://20210200-49c6-11ed-a9ef-1239d0255272@104.18.21.18:443?security=tls&sni=corona.jakarta.go.id&allowInsecure=1&type=tcp#ID%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%7C+corona.jakarta.go.id-443+%7C+613.79ms
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:11600?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_101227581
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:11048?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10121813
@@ -2571,6 +2553,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERS.dEv:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERS.dEv&alpn=http%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERS.dEv#%E7%BE%8E%E5%9B%BD_101227436
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443?security=tls&allowInsecure=1&type=tcp#RELAY%F0%9F%9A%A9+%7C+guolicheng.cc-443+%7C+89.18ms
 trojan://51b3d07b-7883-401f-a971-713e4939dd24@cf1.cfyun01.sbs:443?type=ws&sni=lmtsg1.cfyun01.sbs&allowInsecure=1&path=/CFYUN&host=lmtsg1.cfyun01.sbs#%E6%9C%AA%E7%9F%A5_1012845
+trojan://telegram-id-directvpn@63.176.14.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94+%40v2ray_configs_pool%F0%9F%93%A1%E5%BE%B7%E5%9B%BDGermany%60
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkerS.dEV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkerS.dEV&alpn=h2&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkerS.dEV#%E6%9C%AA%E7%9F%A5_101222320
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:11187?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1012116
 trojan://8a7af294-75bd-4885-8b6e-889b4c2a8786@de-full.privateip.net:443#Germany
@@ -2598,7 +2581,6 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:12115?peer=fre
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.69:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101222035
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRkeRs.DEV:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRkeRs.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRkeRs.DEV#%E6%9C%AA%E7%9F%A5_101222234
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:12130?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1012174
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@fc14f23e379602c7ec474f1360ecbcdd.v1.cac.node-is.green:47464?allowInsecure=1&peer=sg1.speedtest.net&sni=sg1.speedtest.net#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31133?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1012056
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:33793?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1012149
 trojan://7b561e94-42f3-4f92-979c-4cf97c328025@xjp.ziqiyun.xyz:443?type=tcp&sni=$$xjp.ziqiyun.xyz&allowInsecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1012015
@@ -3052,7 +3034,6 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://2db71c8f-b7d3-4272-b868-2f7c92b395d1@IEPL03.catcat-123.com:20011?allowInsecure=0&peer=us-02.oneok.link&sni=us-02.oneok.link#%7C%E7%BE%8E%E5%9B%BD-IEPL+02
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:16973?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1012199
 trojan://95b@85.192.60.129:443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1012762
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:17579?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E5%8F%B0%E6%B9%BE+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
 trojan://95b@27.50.49.242:8443#%E6%96%B0%E5%8A%A0%E5%9D%A1_1012505
 trojan://0b5d1e30-a038-11ee-bc3a-1239d0255272@104.21.94.85:443?allowInsecure=1&sni=uk1.test3.net&type=ws&path=/howdy#4Mohsen-5654
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.190:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101220880
@@ -3095,7 +3076,6 @@ trojan://95b@103.116.7.67:2083#%E6%97%A5%E6%9C%AC_10121885
 trojan://bpb-trojan@104.17.147.22:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http/1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.17.147.22%3A2053
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.199:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101220890
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15976?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10121886
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@28caffcfd2d38aec0dbbd5b1d2da93a9.v1.cac.node-is.green:45118#%E9%A6%99%E6%B8%AF_1012465
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15982?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10121887
 trojan://95b@188.164.159.74:8443#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1012033
 trojan://TJCfE7Mx2YcA8kX8zg@jp2.chuqiangtou.net:4003?allowInsecure=1#IL_FreeNode.me_76
@@ -3255,7 +3235,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:11368?peer=fre
 trojan://0f73d8d8-ce70-4186-8014-05711207eb83@nl2-full.privateip.net:443#The+Netherlands
 trojan://auto@104.18.13.229:2053?allowInsecure=1&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=#4Mohsen-7217
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.100:2053?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101220896
-trojan://87ec85ad-8e8e-40a0-9b23-1fa8217c9647@138.124.184.173:443#%E7%BE%8E%E5%9B%BD_1385
+trojan://87ec85ad-8e8e-40a0-9b23-1fa8217c9647@138.124.184.173:443#%E7%BE%8E%E5%9B%BD_1387
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.dev:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.dev&alpn=h3%2Ch2&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.dev#%E6%9C%AA%E7%9F%A5_101222211
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:11373?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1012149
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:35591?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1012184
@@ -3346,6 +3326,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:13163?peer=fre
 trojan://0b496cc0-0e73-11ef-9767-1239d0255272@zula.ir:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=uk1.test3.net#%E6%9C%AA%E7%9F%A5_101222052
 trojan://Bia-Daily-Configs@104.18.7.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#Trojan+%7C+%40meli_proxyy+%7C+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+++%E2%81%B9%C2%B9%E1%B5%88%E2%81%B0%C2%B9%C2%B9%C2%B3%E1%B5%87
 trojan://cf1a0d20-43ad-11ef-935f-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%E6%B3%95%E5%9B%BD_1012535
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@02cb78420c2578cc6bb2047152ef55a8.v1.cac.node-is.green:44066?allowInsecure=1&peer=us1.speedtest.net&sni=us1.speedtest.net#V1-%E7%BE%8E%E5%9B%BD
 trojan://749eec2c-7dd3-42cc-919a-6016635475f6@66.235.200.0:443?path=%2FUZQIPHPSLhOrWRYnp9ok&security=tls&host=xp0.pardazesh.tech&type=ws&sni=xp0.pardazesh.tech#%E7%BE%8E%E5%9B%BD_101223880
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErs.deV:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErs.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErs.deV#%E6%9C%AA%E7%9F%A5_101222287
 trojan://95b@51.38.152.80:2053?sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org#%E6%B3%95%E5%9B%BD_1012536
@@ -3404,7 +3385,6 @@ trojan://754a7027-4bd3-5177-81a6-728ac05148b8@104.18.32.47:2096?security=tls&sni
 trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@172.67.73.163:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#%E7%BE%8E%E5%9B%BD_101227627
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkErs.dEv:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkErs.dEv&alpn=h2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkErs.dEv#%E6%9C%AA%E7%9F%A5_101222171
 trojan://95b@3.11.114.146:8443#%E8%8B%B1%E5%9B%BD_1012251
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@a7b3fc21ebea39f2b53848adc938af77.v1.cac.node-is.green:43314?allowInsecure=1&peer=jp12.speedtest.net&sni=jp12.speedtest.net#V1-%E6%97%A5%E6%9C%AC2
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkeRS.dEv:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkeRS.dEv&alpn=h2&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkeRS.dEv#%E7%BE%8E%E5%9B%BD_101228133
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:11011?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_10121168
 trojan://95b@45.67.215.217:2087#%E4%B9%8C%E5%85%8B%E5%85%B0_1012230
@@ -3583,6 +3563,7 @@ trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.142.99:443?security=tls&sni
 trojan://95b@92.53.190.161:2087#%E7%BE%8E%E5%9B%BD_101227634
 trojan://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf.dalazhi.eu.org:8443?security=tls&sni=us.dalazhi.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=unlotrojangrpc&mode=gun#%E6%9C%AA%E7%9F%A5_101215854
 trojan://95b@174.136.205.115:24378#%E7%BE%8E%E5%9B%BD_101227635
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@eb60ec0c57f01601b8b6f6fbcbdb67bb.v1.cac.node-is.green:44870?allowInsecure=1&peer=jp12.speedtest.net&sni=jp12.speedtest.net#V1-%E6%97%A5%E6%9C%AC2
 trojan://7b05b7cc-4ac3-4c30-8df9-36e89f253a3d@vip6sao1.5gtocdocao.com:443?allowInsecure=1#%3E%E8%B6%8A%E5%8D%97%7CMs%7C0914%7CTG%40FProxies%7C
 trojan://NISHIKUITAN222@104.26.13.31:443?type=ws&path=%2F&security=tls&sni=t070.ylks.link#%E7%BE%8E%E5%9B%BD_101227636
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErs.Dev:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErs.Dev&alpn=h2&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErs.Dev#%E6%9C%AA%E7%9F%A5_101222262
@@ -3603,3 +3584,22 @@ trojan://95b@188.164.159.241:2096#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1012035
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:10571?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1012227
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.208:443?security=tls&sni=us4.pqjc.buzz&type=tcp#RELAY%F0%9F%9A%A9+%7C+us4.pqjc.buzz-443+%7C+18.04ms
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp3.aiopen.cfd:443?allowInsecure=0&sni=18-140-66-207.nhost.00cdn.com#%E5%85%B6%E4%BB%96+44
+trojan://79ddc736-7304-3b95-b814-b27765e59484@fr3.88888804.xyz:443?security=tls&type=ws&path=/91838f3b905c42c7aa5b664b27d8193b#%E7%BE%8E%E5%9B%BD_101227550
+trojan://KbSAM9jgvo@78.46.38.121:110?security=tls&sni=dk1.ftpcomand.com&type=tcp#%F0%9F%94%92+TR-TCP-TLS+%E5%BE%B7%E5%9B%BD-78.46.38.121%3A110
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31645?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1012197
+trojan://5d7eab5d-b122-45bd-98fd-a71016211f68@cn1.cdn.xfltd-cdn.top:12011#%E4%B9%8C%E5%85%8B%E5%85%B0_1012238
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.dev:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.dev&alpn=h2%2Chttp%2F1.1&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.dev#%E6%9C%AA%E7%9F%A5_101222288
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:10595?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1012025
+trojan://95b@188.164.159.246:2096#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1012036
+trojan://95b@188.64.14.18:2053#%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86_1012008
+trojan://CMLiu@152.70.239.134:34237?type=ws&sni=trojan.pagess.filegear-sg.me&allowInsecure=1&path=/&host=trojan.pagess.filegear-sg.mehttp/1.1#ICN%F0%9F%90%B2%E2%84%A2%EF%B8%8F
+trojan://95b@188.164.159.248:2053#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1012037
+trojan://131c1970-e8ed-11ed-ba57-1239d0255272@51.158.146.183:443?type=tcp&sni=yahoo.com&allowInsecure=1#%F0%9F%86%94%E2%9F%AA%40LonUp_M%E2%9F%AB%F0%9F%9F%A2TCI%E2%8C%8113
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workErS.dev:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workErS.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workErS.dev#%E7%BE%8E%E5%9B%BD_101227477
+trojan://cd7239af-77ad-4628-a871-00acfa219f02@ip0axv1bbsu02k7-kr.1ytnode.com:56361#%E7%BE%8E%E5%9B%BD_101224275
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.121:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101220948
+trojan://cd7239af-77ad-4628-a871-00acfa219f02@ip0axv1bbsu02k7-kr.1ytnode.com:56363#%E7%BE%8E%E5%9B%BD_101224246
+trojan://cd7239af-77ad-4628-a871-00acfa219f02@ip0axv1bbsu02k7-kr.1ytnode.com:56362#%E7%BE%8E%E5%9B%BD_101224225
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-198.41.220.20%3A443
+trojan://opentunnel.net-wd3dzt4j9yoy@cat-1.opensvr.net:443?security=tls&type=tcp&headerType=none#Trojan+VPN+Server+CAO+1
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.222:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_101220949
