@@ -78,6 +78,11 @@ def main():
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
         "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
+        "https://github.com/qjlxg/YBSubCrawler/raw/refs/heads/main/sub/share/available",
+        "https://github.com/qjlxg/YBSubCrawler/raw/refs/heads/main/sub/share/ss",
+        "https://github.com/qjlxg/YBSubCrawler/raw/refs/heads/main/sub/share/ssr",
+        "https://github.com/qjlxg/YBSubCrawler/raw/refs/heads/main/sub/share/tr",
+        "https://github.com/qjlxg/YBSubCrawler/raw/refs/heads/main/sub/share/v2",
         "https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt",
         "https://mrpooyax.camdvr.org/api/ramezan/lena.php?sub=1",
         "https://mrpooyax.camdvr.org/api/ramezan/run.php?sub=1",
