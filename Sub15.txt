@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+trojan://20210200-49c6-11ed-a9ef-1239d0255272@172.67.24.177:443?security=tls&sni=kipi.covid19.go.id&allowInsecure=1&type=tcp#4Jadi-5851
 trojan://207e7515-c396-4eb6-8b89-7447b5fd3476@119.96.134.3:53296?security=tls&sni=www.icloud.com&type=tcp&allowInsecure=1#4Jadi-5852
 trojan://207e7515-c396-4eb6-8b89-7447b5fd3476@175.6.101.195:23872?security=tls&sni=www.icloud.com&type=tcp&allowInsecure=1#4Jadi-5853
 trojan://2155145a-b1b5-443a-8977-670f6bd10f02@bgroup.node1.t.nodelist-airport.com:50001?security=tls#4Jadi-5854
@@ -3602,4 +3603,3 @@ vless://3c95c3eb-522a-46a0-a49a-14e10c03fbf8@172.67.180.15:443?security=tls&sni=
 vless://3c9c1118-32d3-47ec-8de3-008074e8f90b@www.speedtest.net:80?security=&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&encryption=none#4Jadi-9448
 vless://3cdcbcd2-64c2-457c-8525-d76e3a4faba2@95.164.68.37:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#4Jadi-9449
 vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@172.67.218.84:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&encryption=none#4Jadi-9450
-vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@172.67.218.84:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#4Jadi-9451
