@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.86.135.225:8009#4FreeIran-3612
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.86.135.27:8008#4FreeIran-3613
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.86.135.27:8009#4FreeIran-3614
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.86.135.36:8008#4FreeIran-3615
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.86.135.36:8009#4FreeIran-3616
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.91.101.159:8008#4FreeIran-3617
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.91.102.30:8008#4FreeIran-3618
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.91.102.30:8009#4FreeIran-3619
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.91.107.16:8008#4FreeIran-3620
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.91.107.16:8009#4FreeIran-3621
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8008#4FreeIran-3622
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8009#4FreeIran-3623
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@54.36.174.181:8008#4FreeIran-3624
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@54.36.174.181:8009#4FreeIran-3625
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.92.110:8009#4FreeIran-3626
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.93.100:8009#4FreeIran-3627
@@ -3603,3 +3590,16 @@ trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?allowInsecur
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#4FreeIran-7209
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#4FreeIran-7210
 trojan://auto@104.18.1.89:443?allowInsecure=1&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=/?ed=2560#4FreeIran-7211
+trojan://auto@104.18.12.229:2053?allowInsecure=1&sni=e9464f45.trauma-2r4.pages.dev&type=ws#4FreeIran-7212
+trojan://auto@104.18.12.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#4FreeIran-7213
+trojan://auto@104.18.12.229:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#4FreeIran-7214
+trojan://auto@104.18.13.229:2053?allowInsecure=1&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#4FreeIran-7215
+trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#4FreeIran-7216
+trojan://auto@104.20.6.134:443?allowInsecure=1&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#4FreeIran-7217
+trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#4FreeIran-7218
+trojan://auto@104.21.31.51:443?allowInsecure=1&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=/#4FreeIran-7219
+trojan://auto@104.21.31.51:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#4FreeIran-7220
+trojan://auto@104.21.90.210:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#4FreeIran-7221
+trojan://auto@104.26.12.54:443?allowInsecure=1&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#4FreeIran-7222
+trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#4FreeIran-7223
+trojan://auto@159.246.55.132:443?allowInsecure=1&sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=/#4FreeIran-7224
