@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.97:5601#4Sarina-4628
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.97:8888#4Sarina-4629
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.20:5000#4Sarina-4630
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.87:3306#4Sarina-4631
@@ -3603,3 +3602,4 @@ trojan://auto@162.159.128.233:8443?security=tls&sni=e9464f45.trauma-2r4.pages.de
 trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#4Sarina-8225
 trojan://auto@162.159.128.233:8443?sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#4Sarina-8226
 trojan://auto@162.159.135.232:8443?allowInsecure=1&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=/#4Sarina-8227
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#4Sarina-8228
