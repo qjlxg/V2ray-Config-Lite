@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+trojan://tg-dns68@162.159.153.113:443?sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=/?ed=2560#4Jadi-9978
+trojan://tg-dns68@162.159.153.116:443?allowInsecure=1&sni=vip.putata.eu.org&type=ws#4Jadi-9979
+trojan://tg-dns68@162.159.153.116:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#4Jadi-9980
+trojan://tg-dns68@162.159.153.116:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#4Jadi-9981
+trojan://tg-dns68@162.159.153.116:443?sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=/?ed=2560#4Jadi-9982
+trojan://tg-dns68@162.159.153.123:443?allowInsecure=1&sni=vip.putata.eu.org&type=ws#4Jadi-9983
+trojan://tg-dns68@162.159.153.123:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#4Jadi-9984
+trojan://tg-dns68@162.159.153.123:443?sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=#4Jadi-9985
+trojan://tg-dns68@162.159.153.125:443?allowInsecure=1&sni=vip.putata.eu.org&type=ws#4Jadi-9986
+trojan://tg-dns68@162.159.153.125:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#4Jadi-9987
+trojan://tg-dns68@162.159.153.125:443?sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=#4Jadi-9988
+trojan://tg-dns68@162.159.153.126:443?allowInsecure=1&sni=vip.putata.eu.org&type=ws#4Jadi-9989
+trojan://tg-dns68@162.159.153.126:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#4Jadi-9990
 trojan://tg-dns68@162.159.153.126:443?sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=#4Jadi-9991
 trojan://tg-dns68@162.159.153.128:443?allowInsecure=1&sni=vip.putata.eu.org&type=ws#4Jadi-9992
 trojan://tg-dns68@162.159.153.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#4Jadi-9993
@@ -3590,16 +3603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.223:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.227:443?allowInsecure=1&sni=lm.ylks01.eu.org&type=ws&host=lm.ylks01.eu.org&path=/freecodessecurity=tls#4Jadi-13575
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.227:443?security=tls&sni=dp.ylks.xyz&type=ws&path=%2Fblue#4Jadi-13576
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.227:443?sni=dn.ylks.xyz&type=ws&host=dn.ylks.xyz&path=/freecodessecurity=tls#4Jadi-13577
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.228:443?security=tls&sni=yz.ylka.us.kg&type=ws&path=%2F%3Fproxyip#4Jadi-13578
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.22:443?allowInsecure=1&sni=dm.ylks.xyz&type=ws&host=dm.ylks.xyz&path=/bluesecurity=tls#4Jadi-13579
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?allowInsecure=1&sni=dm.ylks.xyz&type=ws&host=dm.ylks.xyz&path=/freecodessecurity=tls#4Jadi-13580
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?security=tls&sni=cm.ylks.xyz&type=ws&path=%2Fblue#4Jadi-13581
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?sni=cn.ylks.xyz&type=ws&host=cn.ylks.xyz&path=/freecodessecurity=tls#4Jadi-13582
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?sni=dn.ylks.xyz&type=ws&host=dn.ylks.xyz&path=/freecodessecurity=tls#4Jadi-13583
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.235:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2Fblue#4Jadi-13584
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.236:443?security=tls&sni=lo.ylks01.eu.org&type=ws&path=%2Fblue#4Jadi-13585
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.236:443?sni=ln.ylks01.eu.org&type=ws&host=ln.ylks01.eu.org&path=/freecodessecurity=tls#4Jadi-13586
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?allowInsecure=1&sni=dm.ylks.xyz&type=ws&host=dm.ylks.xyz&path=/bluesecurity=tls#4Jadi-13587
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?security=tls&sni=do.ylks.xyz&type=ws&path=%2Fblue#4Jadi-13588
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?sni=dn.ylks.xyz&type=ws&host=dn.ylks.xyz&path=/freecodessecurity=tls#4Jadi-13589
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.239:443?security=tls&sni=ld.kpcloud.eu.org&type=ws&path=%2Fblue#4Jadi-13590
