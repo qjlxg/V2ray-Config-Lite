@@ -3,25 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.95:6379#4FreeIran-5984
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#4FreeIran-5985
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.43:6379#4FreeIran-5986
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#4FreeIran-5987
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.19:6379#4FreeIran-5988
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.208:6379#4FreeIran-5989
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.46:445#4FreeIran-5990
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.46:6379#4FreeIran-5991
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.67:6379#4FreeIran-5992
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#4FreeIran-5993
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#4FreeIran-5994
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.97:6379#4FreeIran-5995
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#4FreeIran-5996
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.64.138.145:6379#4FreeIran-5997
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.125:6379#4FreeIran-5998
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.85:6379#4FreeIran-5999
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#4FreeIran-6000
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.135.19:6379#4FreeIran-6001
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.102:6379#4FreeIran-6002
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.135:6379#4FreeIran-6003
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#4FreeIran-6004
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.33:6379#4FreeIran-6005
@@ -3603,3 +3584,22 @@ trojan://telegram-id-privatevpns@16.171.91.51:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@176.34.189.73:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4FreeIran-9581
 trojan://telegram-id-privatevpns@176.34.228.179:22222?security=tls&sni=trojan.burgerip.co.uk#4FreeIran-9582
 trojan://telegram-id-privatevpns@18.132.35.140:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#4FreeIran-9583
+trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-9584
+trojan://telegram-id-privatevpns@18.133.25.155:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4FreeIran-9585
+trojan://telegram-id-privatevpns@18.133.25.155:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-9586
+trojan://telegram-id-privatevpns@18.134.217.45:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4FreeIran-9587
+trojan://telegram-id-privatevpns@18.135.147.111:22222?sni=trojan.burgerip.co.uk#4FreeIran-9588
+trojan://telegram-id-privatevpns@18.135.167.255:22222?security=tls&sni=trojan.burgerip.co.uk#4FreeIran-9589
+trojan://telegram-id-privatevpns@18.135.201.47:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4FreeIran-9590
+trojan://telegram-id-privatevpns@18.135.201.47:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#4FreeIran-9591
+trojan://telegram-id-privatevpns@18.135.201.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-9592
+trojan://telegram-id-privatevpns@18.135.210.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4FreeIran-9593
+trojan://telegram-id-privatevpns@18.135.6.102:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#4FreeIran-9594
+trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-9595
+trojan://telegram-id-privatevpns@18.153.231.218:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#4FreeIran-9596
+trojan://telegram-id-privatevpns@18.156.151.245:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4FreeIran-9597
+trojan://telegram-id-privatevpns@18.168.122.203:22222?allowInsecure=1#4FreeIran-9598
+trojan://telegram-id-privatevpns@18.168.175.102:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#4FreeIran-9599
+trojan://telegram-id-privatevpns@18.168.238.232:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4FreeIran-9600
+trojan://telegram-id-privatevpns@18.168.238.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-9601
+trojan://telegram-id-privatevpns@18.169.142.166:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#4FreeIran-9602
