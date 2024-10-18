@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@jp.mjt001.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_0022
-vmess://eyJhZGQiOiIxNzIuNjcuNzQuMjU0IiwicG9ydCI6IjQ0MyIsImlkIjoiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwiYWlkIjoiMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi576O5Zu9XzEwMTQ0NjcxIiwiaG9zdCI6ImtyLnNoYXJlY2VudHJlLm9ubGluZSIsInBhdGgiOiIvc2hpcmtlciIsInRscyI6InRscyIsInNuaSI6ImtyLnNoYXJlY2VudHJlLm9ubGluZSIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?encryption=none&type=ws&host=16d33466.MaDareFiLTErcHI.pAgES.deV&security=tls&sni=16D33466.mAdarefIlTerchi.pAGEs.DEV&fp=randomized&alpn=h2,http/1.1&path=/XEK7hJgbnaKtgs4w%3Fed%3D2560#%F0%9F%92%A6%20BPB%20-%20Domain_2%20%3A%202083
-vmess://eyJhZGQiOiIxMDQuMjQuMTc4Ljk1IiwicG9ydCI6IjQ0MyIsImlkIjoiYzk1ZWYxZDQtZjNhYy00NTg2LTk2ZTktMjM0YTM3ZGRhMDY4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMTAxNDMyOTgiLCJob3N0Ijoic3RlZXAtaGFsbC0zZDFlLmdheWZhd2tlcnM5NTI3LndvcmtlcnMuZGV2IiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IiIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
-vmess://eyJhZGQiOiJ2Y3BsZy1nMDQuanAwMy03ZDIyLXZtMC5lbnRyeS5mcjAzMDdhLmFydCIsInBvcnQiOiIyMTU4NCIsImlkIjoiZDkxYjAwYmItM2Y5Mi0zMzZhLWE2NWItN2M0Yzk4NThkYWUxIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiIiLCJ2IjoiMiIsInBzIjoi5pel5pysXzEwMTQxMzU1IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0cnVlIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ==
-vmess://eyJhZGQiOiI1Mi4yMDMuMjI5LjEyMSIsInBvcnQiOiI0NDMiLCJpZCI6IjgwZTdkZDU5LWIxZmMtNDVhMC05OGJlLTE0NzhhOWFmODlmMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi576O5Zu9XzEwMTQyODQ2IiwiaG9zdCI6IiIsInBhdGgiOiIvYXBpIiwidGxzIjoidGxzIiwic25pIjoiY29vaW5nLWx1eHVyaWFudC1ibHVlLmdsaXRjaC5tZSIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
-vmess://eyJhZGQiOiIxMDQuMTkuNDguMTYiLCJwb3J0IjoiMjA1MiIsImlkIjoiMmI0ODYyMmQtMzA3Yy00MGNmLTg4Y2EtOTU0ZjgzZjNhOWRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLmnKrnn6VfMTAxNDE5MTk1IiwiaG9zdCI6ImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsInBhdGgiOiIvdmlkZW8vdTRlQ1pUeFciLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9
-vmess://eyJhZGQiOiIxNjIuMTU5LjEzOC4yNDQiLCJwb3J0IjoiNDQzIiwiaWQiOiJlZTVkNGNhNC1jYjE1LTQyMDEtYmE0Zi00NzA5YjVhODMzZDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6IuacquefpV8xMDE0MjE0ODgiLCJob3N0IjoidjI2LmpzdnBuLnh5eiIsInBhdGgiOiIvZGZkZmRkZmRmIiwidGxzIjoidGxzIiwic25pIjoidjI2LmpzdnBuLnh5eiIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
-vmess://eyJhZGQiOiIxNzIuNjcuMTg5LjYwIiwicG9ydCI6IjgwIiwiaWQiOiI4OTJlYmI3NS03MDU1LTMwMDctOGQxNi0zNTZlNjVjNmE0OWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6Iue+juWbvV8xMDE0MjEzNjEiLCJob3N0IjoiIiwicGF0aCI6Ii9za2luY2FyZSIsInRscyI6IiIsInNuaSI6IiIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
-trojan://auto@104.18.1.89:443?type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%E6%9C%AA%E7%9F%A5_1014016
-vmess://eyJhZGQiOiIxMDQuMTguMzMuOTciLCJwb3J0IjoiNDQzIiwiaWQiOiJjNzY3NjJmNy1hZTNkLTRmZDgtOThiMi05YzNmOTc2N2M4YWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6IuacquefpV8xMDE0MTIwMDciLCJob3N0IjoiVHJlZS5CbGFua3UuTWUiLCJwYXRoIjoiL3dzczQ5NDA2IiwidGxzIjoidGxzIiwic25pIjoiUm9ja3AuQmxhbmt1Lk1lIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ==
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4xODUiLCJwb3J0IjoiMjA1MiIsImlkIjoiOTlmODQxMGYtNGY0Ni00ZjY0LWFkYzctYWE2YTQxZGM5ZGE0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnkZ7lhbhfMTAxNDEyOCIsImhvc3QiOiJzZXl5ZWRtdHN6Lm9kdWhpdWdkaWdvaWVqZmlvYXNmamVqYXNwZGp2Y2VqaGFwc2Rha2MuQmxvZy4iLCJwYXRoIjoiL1YyUmF5LlNleVllRG10IiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ==
 vmess://eyJhZGQiOiAiMTcyLjY3LjE5OS4zNCIsICJhaWQiOiAwLCAiaG9zdCI6ICJsYS5hd3NiZXN0LmNvbSIsICJpZCI6ICI4YjZkZDcwOS00ZDRlLTRiOTItZjU0Mi01NGE2NzZlZmJmZTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NoYXJlcyIsICJwb3J0IjogNDQzLCAicHMiOiAiNFNhcmluYS0xMDYzMCIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJhZGQiOiIxMDQuMjQuMjAwLjYwIiwicG9ydCI6IjIwODYiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi576O5Zu9XzEwMTQyMTEwOCIsImhvc3QiOiJjYTYudGVobWUxMDAuZnVuIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ==
@@ -3522,7 +3511,7 @@ vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443/?type=tcp&encryp
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-27-MEHR-1403 🕑 20:15
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-27-MEHR-1403 🕑 21:09
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -3532,7 +3521,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-27-MEHR-1403 🕑 20:13
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-27-MEHR-1403 🕑 21:07
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
@@ -3603,3 +3592,14 @@ vless://34b7b2fe-f375-4e8e-810b-b6d7891e18db@190.93.247.56:8080?flow=&host=legen
 vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443?flow=&fp=chrome&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&type=ws#@V2rayMiner
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082?flow=&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F&type=ws#@V2rayMiner
 vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829?flow=&headerType=http&host=fast.com&type=tcp#@V2rayMiner
+vless://63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095?flow=&host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&path=TelegramChanel%3At.me%2FHTTP_injector99&type=ws#@V2rayMiner
+vless://48761263-67b8-5abd-9e0d-797abd388f6a@172.67.171.196:80?flow=&host=Fr1.vless.site.&path=%2Fvless&type=ws#@V2rayMiner
+vless://9fd36a9b-4d61-49b1-8986-6a95543e8b08@104.17.147.22:80?flow=&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&type=ws#@V2rayMiner
+vless://37239c7f-b959-4065-841f-ac516465f8fe@176.65.242.107:39554?flow=&path=%2F&type=ws#@V2rayMiner
+vless://bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@www.speedtest.net:80?flow=&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&type=ws#@V2rayMiner
+
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@141.148.182.2:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
