@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@134.195.196.231:9101#4Jadi-4991
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@134.195.196.231:9102#4Jadi-4992
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.115:9101#4Jadi-4993
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.144:9101#4Jadi-4994
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.153:9101#4Jadi-4995
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.154:9102#4Jadi-4996
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.155:9102#4Jadi-4997
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@142.202.49.119:9101#4Jadi-4998
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@142.202.49.122:9101#4Jadi-4999
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@142.202.49.122:9102#4Jadi-5000
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@142.202.49.68:9101#4Jadi-5001
@@ -3603,3 +3595,11 @@ trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk
 trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@z9.gozargah.one:443?security=tls&sni=z9.gozargah.one#4Jadi-8588
 trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@163.123.192.34:443?security=tls&sni=16-163-218-240.nhost.00cdn.com#4Jadi-8589
 trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?allowInsecure=1&sni=zula.ir#4Jadi-8590
+trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&type=tcp#4Jadi-8591
+trojan://biwe49r2Tv@amini2.ddns.net:2096?allowInsecure=1&sni=Qoakq.mookomeilz.homes&alpn=http/1.1&type=ws&path=/mskqq#4Jadi-8592
+trojan://biwe49r2Tv@amini2.ddns.net:2096?security=tls&sni=Qoakq.mookomeilz.homes&alpn=http/1.1&type=ws&path=/mskqq&host=pANeL159.moOkoMEilz.homes#4Jadi-8593
+trojan://bpb-trojan@104.17.147.22:2053?allowInsecure=1&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws#4Jadi-8594
+trojan://bpb-trojan@104.17.147.22:2053?allowInsecure=1&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&path=/trn6lSYIYbgvYGra0u/ZGUucmFkaWNhbGx5LnBybw==#4Jadi-8595
+trojan://bpb-trojan@104.17.147.22:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV#4Jadi-8596
+trojan://bpb-trojan@104.17.147.22:2053?security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http%2F1.1#4Jadi-8597
+trojan://bpb-trojan@104.17.147.22:2053?security=tls&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV&path=/trn6lSYIYbgvYGra0u/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev#4Jadi-8598
