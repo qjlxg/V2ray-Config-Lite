@@ -3,6 +3,229 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+                                                    <g>
+                                                        <path class="st24" d="M379.6,128.7h-20.5v-20.5h20.5V128.7z M361.2,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M361.2,128.7h-20.5v-20.5h20.5V128.7z M342.8,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="337.9" y="117.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 19.0403 282.8283)" class="st24" width="26" height="2.1"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="349.9" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 19.0393 282.8263)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M342.8,128.7h-20.5v-20.5h20.5V128.7z M324.4,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="319.5" y="117.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 13.6502 269.8155)" class="st24" width="26" height="2.1"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="331.5" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 13.6511 269.8174)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M287.4,128.7h-20.5v-20.5h20.5V128.7z M269,126.6h16.3v-16.3H269V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M267.9,128.7h-18.4c-0.4,0-0.8-0.3-1-0.7c-0.2-0.4-0.1-0.8,0.2-1.1l18.4-18.4l1.5,1.5l-16.6,16.6
+                                                                h15.4l18.1-18.1l1.5,1.5l-18.4,18.4C268.5,128.6,268.2,128.7,267.9,128.7z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="276.1" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.5753 230.6435)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M323.7,128.7h-20.5v-20.5h20.5V128.7z M305.3,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="300.5" y="117.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 8.0682 256.3394)" class="st24" width="26" height="2.1"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="312.4" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 8.069 256.3412)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <path class="st24" d="M305.8,128.7h-20.5v-20.5h20.5V128.7z M287.4,126.6h16.3v-16.3h-16.3V126.6z"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="282.5" y="117.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.8146 243.6561)" class="st24" width="26" height="2.1"/>
+                                                        </g>
+                                                    </g>
+                                                    <g>
+                                                        <g>
+                                                            
+                                                                <rect x="294.5" y="105.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 2.8154 243.6578)" class="st24" width="2.1" height="26"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <path class="st24" d="M380.1,296.7H359v-20.5h21.1V296.7z M361.2,294.6h16.7v-16.3h-16.7V294.6z"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <polygon class="st24" points="378.2,296.4 359.3,278 360.8,276.5 379.8,294.9 								"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <polygon class="st24" points="360.8,296.4 359.3,294.9 378.2,276.5 379.8,278 								"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <path class="st24" d="M380.1,370.3H359v-20.5h21.1V370.3z M361.2,368.2h16.7v-16.3h-16.7V368.2z"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <polygon class="st24" points="378.2,370 359.3,351.6 360.8,350.1 379.8,368.5 								"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <polygon class="st24" points="360.8,370 359.3,368.5 378.2,350.1 379.8,351.6 								"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path class="st24" d="M380.1,313.3H359v-20.5h21.1V313.3z M361.2,311.2h16.7v-16.3h-16.7V311.2z"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="378.2,313 359.3,294.6 360.8,293.1 379.8,311.5 							"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="360.8,313 359.3,311.5 378.2,293.1 379.8,294.6 							"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path class="st24" d="M380.1,331.7H359v-20.5h21.1V331.7z M361.2,329.6h16.7v-16.3h-16.7V329.6z"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="378.2,331.4 359.3,313 360.8,311.5 379.8,329.9 							"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="360.8,331.4 359.3,329.9 378.2,311.5 379.8,313 							"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path class="st24" d="M380.1,350.1H359v-20.5h21.1V350.1z M361.2,348h16.7v-16.3h-16.7V348z"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="378.2,349.8 359.3,331.4 360.8,329.9 379.8,348.3 							"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <polygon class="st24" points="360.8,349.8 359.3,348.3 378.2,329.9 379.8,331.4 							"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    </svg>
+            </div>
+            <p class="text">Either the domain has been overused, or the reseller ran out of resources.</p>
+        </div>
+    </section>
+    <footer class="container">
+        <div class="left-side">
+            <p>Powered by</p>
+            <span class="logo"><a href="https://www.directadmin.com" target="_blank">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 453.4 102.2"
+                    style="enable-background:new 0 0 453.4 102.2;" xml:space="preserve">
+                    <style type="text/css">
+                        .st007 {
+                            fill: #8F9195;
+                        }
+
+                        .ssst1 {
+                            fill: #34383C;
+                        }
+
+                        .ssst2 {
+                            fill: #0682B4;
+                        }
+
+                        .ssst3 {
+                            fill: #31B7E9;
+                        }
+                    </style>
+                    <g>
+                        <path class="st007" d="M111,72h1.5l3,13l4.5-13h1l4.6,12.8l3.2-12.8h1.4l-3.7,14.8H125l-4.5-12.7l-4.4,12.7h-1.6L111,72z M141.8,78.4
+		h9.6c0-3.4-1.6-5.2-4.5-5.2C143.6,73.3,141.9,75,141.8,78.4 M146.9,72c3.9,0,5.9,2.2,5.9,6.6c0,0.3,0,0.6,0,1h-10.9
 		c0,3.8,1.9,5.8,5.9,5.8c1.6,0,3.1-0.2,4.3-0.6v1.3c-1.3,0.4-2.7,0.6-4.3,0.6c-4.8,0-7.5-2.5-7.5-7.7C140.4,74.3,142.6,72,146.9,72
 		 M165.6,85.2c1.5,0.2,2.8,0.4,3.9,0.4c3.7,0,5.5-2.1,5.5-6.4c0-3.7-1.7-5.5-5.1-5.5c-1.4,0-2.8,0.2-4.4,0.7L165.6,85.2z
 		 M164.2,66.8h1.5v6.1c1.7-0.4,3.2-0.6,4.4-0.6c4.3,0,6.4,2.3,6.4,7.2c0,5.1-2.2,7.8-6.7,7.8c-2,0-3.8-0.2-5.5-0.5L164.2,66.8z
@@ -926,7 +1149,7 @@ vless://ef46e73e-82ab-42dc-a37c-6037cc15f942@149.62.187.191:443/?type=tcp&encryp
 #profile-web-page-url: https://Here_is_Nowhere.t.me
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-29-MEHR-1403 🕑 23:08
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-30-MEHR-1403 🕑 00:08
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
 #profile-title: base64:VjJyYXkgTWluZXIg8J+Viu+4jw==
@@ -936,7 +1159,7 @@ vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp
 #profile-web-page-url: https://t.me/V2rayMiner
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sun-29-MEHR-1403 🕑 23:06
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-30-MEHR-1403 🕑 00:06
 
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
 hy2://3141739e-cf0e-4606-ae62-a6546ccce427@alipay-api-us-a-2.testred.xyz:443/?insecure=1&sni=alipay-api-us-a-2.testred.xyz#%40V2rayMiner
