@@ -3,36 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
-trojan://12d6e340-8296-11ef-a48b-1239d0255272@104.17.148.22:443?security=tls&sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#%E6%9C%AA%E7%9F%A5_102122582
-trojan://8a851794-bea0-37ca-aa56-55cf541797a1@hkvip101.qlgq.fun:12249#%E9%A6%99%E6%B8%AF_1021794
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:12267?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128544
-trojan://tg-dns68@162.159.152.16:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122583
-trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@us2.trojanvh.xyz:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD
-trojan://bpb-trojan@188.114.96.118:2053?security=tls&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftr9pU4LSFNK5k8URSo%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http/1.1#%E8%8D%B7%E5%85%B0_10211100
-trojan://tg-dns68@162.159.152.17:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122584
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16988?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021196
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:12287?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128545
-trojan://tg-dns68@162.159.152.14:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122585
-trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@CN-CQCM.catcat-123.com:9135?allowInsecure=0&peer=hkbn-02.oneok.link&sni=hkbn-02.oneok.link#%E4%B8%AD%E5%9B%BD_1021228
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16982?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021197
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16981?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021198
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:12294?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128546
-trojan://auto@104.19.32.12:443?security=tls&sni=tg.cmliussss.us.kg#%E6%9C%AA%E7%9F%A5_102122586
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16926?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021199
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@82bb634c90f648add4beb504b308a54c.v1.cac.node-is.green:47765#%E9%A6%99%E6%B8%AF_10211275
-trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkERS.DeV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkERS.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkERS.DeV#%E6%9C%AA%E7%9F%A5_102123570
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.24:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122587
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.27:2053?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122588
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.192.159:443?allowInsecure=1&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F6b777a91#%E6%9C%AA%E7%9F%A5_102122589
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.22:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122591
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:34121?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021266
-trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKERs.Dev:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKERs.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKERs.Dev#%E6%9C%AA%E7%9F%A5_102123415
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@f07159fabc64b2430caf50a835c8c135.v1.cac.node-is.green:47736?allowInsecure=1&peer=us1.speedtest.net&sni=us1.speedtest.net#%E9%A6%99%E6%B8%AF_10211162
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.24:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122592
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.25:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122593
-trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-9419
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.24:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122594
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@8fa8787f6a42acebc08b324523bcfa3f.v1.cac.node-is.green:40793?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E4%B8%AD%E5%9B%BD_1021399
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.21:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122595
 trojan://95b@45.85.93.21:443#%E7%91%9E%E5%A3%AB_1021015
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.23:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122596
@@ -56,10 +26,9 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:12991?peer=fre
 trojan://Y46zmQt7Wc@cdn.yar2v-jhs.eu.org:2096?security=tls&sni=cdn.yar2v-jhs.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#%E6%9C%AA%E7%9F%A5_102123637
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:12995?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212906
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%E4%B8%AD%E5%9B%BD-183.236.51.104-3840
-trojan://join-bede-daily-configs@www.visa.com.mt:8443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#%F0%9F%91%89%F0%9F%86%94+%40v2ray_configs_pool%F0%9F%93%A1%E7%BE%8E%E5%9B%BDUnited+States%60
+trojan://join-bede-daily-configs@www.visa.com.mt:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560#%40meli_proxyy
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkers.DeV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkers.DeV&alpn=h2&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkers.DeV#%E6%9C%AA%E7%9F%A5_102123393
 trojan://Telegram-DailyConfigs@104.18.15.8:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.15.8%3A443
-trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@38070cb6a50de684fdbe12ce98c42d77.node.tro.node-is.green:42658?allowInsecure=1&peer=www.ucloud.cn&sni=www.ucloud.cn#%E6%96%B0%E5%8A%A0%E5%9D%A1BGP+%E4%B8%AD%E8%BD%AC+01+1.5x
 trojan://tg-dns68@162.159.152.9:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5_102122603
 trojan://tg-dns68@162.159.152.8:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.152.8%3A443
 trojan://tg-dns68@162.159.152.44:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.152.44%3A443
@@ -77,7 +46,7 @@ trojan://7dc5c202-622a-354a-8a93-9e2ca8cadd51@35.93.203.243:443?allowInsecure=1#
 trojan://2af31107-e577-4995-8247-e8a57855e90b@103.152.34.82:10011?type=tcp&sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&allowInsecure=1#%E9%A6%99%E6%B8%AF_1021847
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16623?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021205
 trojan://03d8b298-53d9-4787-b4e0-6cd7619c5413@arch.webmdee.com:443?allowInsecure=1&sni=arch.webmdee.com&ws=1&wspath=%2FaKuiezjXsYMCswggOsM#%E8%8A%AC%E5%85%B0_1021263
-trojan://3690911436885991424@engaged-dove.opossum872.cfd:443#ChatGPT+%E6%96%B0%E5%8A%A0%E5%9D%A1_407
+trojan://3690911436885991424@engaged-dove.opossum872.cfd:443#ChatGPT+%E6%96%B0%E5%8A%A0%E5%9D%A1_429
 trojan://f25d1510-3763-4fcf-9804-86d6c1566629@5.34.182.21:443?sni=data.amazon-azure.com#%E4%B9%8C%E5%85%8B%E5%85%B0_1021088
 trojan://69e008e0-0ca8-11ef-bb09-1239d0255272@zula.ir:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=fr1.test3.net#%E6%9C%AA%E7%9F%A5_102123470
 trojan://95b@154.211.8.84:2083#%E9%A6%99%E6%B8%AF_1021848
@@ -120,7 +89,6 @@ trojan://tg-dns68@162.159.152.35:443?security=tls&sni=vip.putata.eu.org&type=ws&
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#%E4%B8%AD%E5%9B%BD
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122619
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.24.197.20%3A443
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16760?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16761?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021211
 trojan://95b@43.153.80.208:443#%E7%BE%8E%E5%9B%BD_102128567
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:16772?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021213
@@ -156,7 +124,7 @@ trojan://auto@162.159.153.32:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:12796?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212924
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRKERs.Dev:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRKERs.Dev&alpn=http%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRKERs.Dev#%E7%BE%8E%E5%9B%BD_102127541
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:12797?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212925
-trojan://join-bede-daily-configs@zula.ir:443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#%F0%9F%91%89%F0%9F%86%94+%40v2ray_configs_pool%F0%9F%93%A1%E5%8A%A0%E6%8B%BF%E5%A4%A7Canada%60
+trojan://join-bede-daily-configs@zula.ir:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=chrome&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560#%40meli_proxyy
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.23.19:443?security=tls&sni=56897854.PaGeS.DEv&type=ws&host=56897854.pAGES.dEv&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.23.19%3A443
 trojan://2e12bfe0-0985-11ef-8461-1239d0255272@172.67.204.84:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=uk1.test3.net#%E7%BE%8E%E5%9B%BD_102128582
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.38.176:443?allowInsecure=1&sni=sg1.pqjc.buzz#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1021362
@@ -193,7 +161,6 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://7fd44b70-b877-11ee-b55a-1239d0255272@fr1.test3.net:443?security=tls&sni=yahoo.com&allowInsecure=1&fp=chrome&type=tcp#%E6%B3%95%E5%9B%BD_1021493
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORKERs.Dev:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORKERs.Dev&alpn=http%2F1.1&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORKERs.Dev#%E6%9C%AA%E7%9F%A5_102123803
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%E6%96%B0%E5%8A%A0%E5%9D%A1-139.162.45.139-4143
-trojan://vxyMiE6MLq@dbn.ircf.space:443?type=tcp&sni=star-one.cfd&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128589
 trojan://bpb-trojan@172.67.135.195:443?security=tls&sni=403b3611-99bc-43B7-88d7-26ED5d0825A9-3.PagEs.deV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtreXr2VnQe0fT2hPwW%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.67.135.195%3A443
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKerS.dEV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKerS.dEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKerS.dEV#%E7%BE%8E%E5%9B%BD_102127401
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@104.21.39.134:443?allowInsecure=1&sni=glc-tw1.windowsupdatea.com#%E6%9C%AA%E7%9F%A5_102122639
@@ -332,7 +299,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.103:8443?type=ws&host=tj
 trojan://95b@77.74.228.4:2087#%E6%B3%A2%E9%BB%91_1021001
 trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?allowInsecure=1&sni=ftp.debian.org#%E6%B3%95%E5%9B%BD_121320056
 trojan://8f3be63d-8f75-3dd5-bf24-22f947425b2a@54.238.135.78:443?allowInsecure=1#%E6%97%A5%E6%9C%AC_10212966
-trojan://Join-Daily-Configs@104.18.7.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.7.36%3A8443
+trojan://Join-Daily-Configs@104.18.7.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&fp=chrome&alpn=h2,http/1.1#%40Hope_Net-join-us-on-Telegram
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:12441?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128632
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:12447?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128633
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:12456?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128634
@@ -361,16 +328,17 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14999?peer=fre
 trojan://Daily-Configs-Channel@104.18.7.21:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_102122684
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32304?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021305
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@513a4aa3c3fc32aec7e17a8e49ac49af.v1.cac.node-is.green:48171#%E9%A6%99%E6%B8%AF_10211195
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freesg01.jd0001.top:14274?peer=freesg01.jd0001.top&sni=freesg01.jd0001.top&type=grpc&security=tls&serviceName=freesg01#%E6%96%B0%E5%8A%A0%E5%9D%A1+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
 trojan://2db71c8f-b7d3-4272-b868-2f7c92b395d1@IEPL02.catcat-123.com:20039?allowInsecure=0&peer=SG-IEPL.oneok.link&sni=SG-IEPL.oneok.link#%E4%B8%AD%E5%9B%BD_1021277
 trojan://tg-dns68@162.159.153.49:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.153.49%3A443
 trojan://3648425794742788096@engaged-dove.opossum872.cfd:443?security=tls&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021403
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@5b2e108498e30cbdb94e0ead425a7fc9.node.tro.node-is.green:43360#%E4%B8%AD%E5%9B%BD_1021324
-trojan://gIRrGnuuNm@185.174.138.34:2096?security=tls&sni=mmd.v2rayngvz.online&fp=chrome&type=ws&path=/&host=mmd.v2rayngvz.online#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
 trojan://Watashi_VPN@104.18.12.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&allowInsecure=1&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#%E6%9C%AA%E7%9F%A5_102122685
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkeRS.dEv:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkeRS.dEv&alpn=h2%2Chttp%2F1.1&fp=ios&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkeRS.dEv#%E6%9C%AA%E7%9F%A5_102123697
 trojan://Watashi_VPN@104.27.7.142:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&fp=chrome#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.27.7.142%3A2053
 trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?security=tls&sni=p6us4.pqjc.buzz&type=ws&path=%2Fpq%2Fus4&host=p6us4.pqjc.buzz#RELAY%F0%9F%9A%A9+%7C+p6us4.pqjc.buzz-443+%7C+16.6ms
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErS.DeV:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErS.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErS.DeV#%E7%BE%8E%E5%9B%BD_102127647
+trojan://2aa1581d-bfc9-4d3a-84f3-742674fb5d3a@sg006.421421.xyz:20230?allowInsecure=0&peer=421421.xyz&sni=421421.xyz&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A106%7C%E6%B5%81%E5%AA%92%E4%BD%93
 trojan://d4435b69-3d08-d58a-919f-7f1707150ecb@91.195.240.94:443?security=tls&sni=hg.053111.xyz&allowInsecure=1&type=tcp#%E5%BE%B7%E5%9B%BD_10211290
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@83203dbdabfb54207de5e199395c070b.node.tro.node-is.green:46824#%E9%A6%99%E6%B8%AF_10211073
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%E6%9C%AA%E7%9F%A5_102122688
@@ -383,7 +351,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10385?peer=fre
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10388?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128650
 trojan://107187d8-9214-41dd-b48c-60bf9fb676d3@india.a1t.top:8880#%E5%8D%B0%E5%BA%A6_1021033
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10397?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128651
-trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@176.126.113.161:443#%F0%9F%8F%81ZZ_991
+trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@176.126.113.161:443#%F0%9F%8F%81ZZ_1009
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10449?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128652
 trojan://95b@91.217.139.94:34237?type=tcp&security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com#%E7%BE%8E%E5%9B%BD_102128653
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10451?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128654
@@ -447,7 +415,6 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avi
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14761?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212987
 trojan://bpb-trojan@104.18.22.235:443?security=tls&sni=403b3611-99bc-43B7-88D7-26Ed5d0825A9-3.pageS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr1ZwekOpUrc0os2rS%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.22.235%3A443
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14797?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212989
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443?security=tls&sni=$paydiu.com&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
 trojan://95b@91.107.145.93:8443#%E4%BC%8A%E6%9C%97_1021448
 trojan://09518de0-ab7c-11ee-a089-1239d0255272@172.67.159.13:443?type=ws&sni=uk1.test3.net&allowInsecure=1&path=/howdy&host=uk1.test3.net#%E7%BE%8E%E5%9B%BD_102128685
 trojan://EJBsFzWnEgXZnmzHq8@os2-8.nrojat.com:443#%E6%97%A5%E6%9C%AC_10212990
@@ -461,7 +428,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:11008?peer=fre
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKeRS.dEV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKeRS.dEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKeRS.dEV#%E6%9C%AA%E7%9F%A5_102123704
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@61a36a42e802c2025deefd550750b249.v1.cac.node-is.green:47851?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E9%A6%99%E6%B8%AF_10211199
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRKeRS.dev:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRKeRS.dev&alpn=h2&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRKeRS.dev#%E6%9C%AA%E7%9F%A5_102123600
-trojan://Parsashonam-1@45.67.215.70:2087?security=tls&sni=Sydney.Tel-Parsashonam.site&fp=chrome&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-GRPC-TLS+4%E2%83%A3
+trojan://Parsashonam-1@45.67.215.70:2087?security=tls&sni=Sydney.Tel-Parsashonam.site&fp=chrome&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam#%E4%B9%8C%E5%85%8B%E5%85%B0_1021001
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKeRs.dev:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKeRs.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKeRs.dev#%E7%BE%8E%E5%9B%BD_102127403
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.38.108:443?security=tls&sni=sg1.pqjc.buzz&type=tcp#RELAY%F0%9F%9A%A9+%7C+sg1.pqjc.buzz-443+%7C+5.65ms
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10166?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128687
@@ -514,7 +481,7 @@ trojan://95b@154.17.30.77:55555#%E7%BE%8E%E5%9B%BD_102128705
 trojan://auto@172.66.47.7:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&allowInsecure=1&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&path=%2Fworker-polished-glade-fe47.tahajadidi2022.workers.dev%2F#%E7%BE%8E%E5%9B%BD_102128706
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32214?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021324
 trojan://2613bb74-d727-4b4b-8e61-29bada971316@sg9.microsoft-orgwly.vip:443?type=tcp&sni=tls.microsoft-orgwly.vip&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021413
-trojan://telegram-id-privatevpns@34.252.217.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1+46+%7C+Meh-29%7C+MTSRVRS
+trojan://telegram-id-privatevpns@34.252.217.31:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92+TR-TCP-TLS+%E7%88%B1%E5%B0%94%E5%85%B0IE-34.252.217.31%3A22222
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:14989?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021271
 trojan://tg-dns68@162.159.153.60:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122732
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10290?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128708
@@ -577,7 +544,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://284ef0f4-17b4-4a1a-acd1-755df10b0280@sg9.microsoft-orgwly.vip:443?type=tcp&sni=tls.microsoft-orgwly.vip&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021415
 trojan://c49c6100-ecff-11ed-b890-1239d0255272@51.159.59.186:443?type=tcp&sni=namasha.com&allowInsecure=1#%E6%B3%95%E5%9B%BD_1021503
 trojan://0c552eb0-0b27-11ef-88de-1239d0255272@172.67.204.84:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=uk1.test3.net#%E7%BE%8E%E5%9B%BD_102127789
-trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443#%E6%B3%95%E5%9B%BD_465
+trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443#%E6%B3%95%E5%9B%BD_468
 trojan://95b@92.243.74.115:443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021678
 trojan://95b@154.197.64.104:8443#%E5%A1%9E%E8%88%8C%E5%B0%94_1021029
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.DeV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.DeV&alpn=h2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.DeV#%E6%9C%AA%E7%9F%A5_102123629
@@ -640,7 +607,7 @@ trojan://Watashi_VPN@104.18.26.94:8443?security=tls&sni=t-watashi-r-jacket-o-peo
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10401?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021291
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14620?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213013
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:15598?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021222
-trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@172.67.204.84:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=%2Ftrojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.67.204.84%3A2096
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@172.67.204.84:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.67.204.84%3A2096
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14629?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213015
 trojan://3648425794742788096@apt-mouse.opossum872.cfd:443?allowInsecure=1#%E5%BE%B7%E5%9B%BD_10211273
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.216:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122794
@@ -659,7 +626,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14694?peer=fre
 trojan://95b@188.164.159.196:2096#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1021041
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10827?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102127803
 trojan://tg-dns68@162.159.152.55:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122796
-trojan://Bia-Daily-Configs@104.17.97.5:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.17.97.5%3A2053
+trojan://Bia-Daily-Configs@104.17.97.5:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_1021187
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@2def126265e313452e9d8aae0832528e.v1.cac.node-is.green:45270#%E9%A6%99%E6%B8%AF_10211206
 trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@IEPL02.catcat-123.com:20023#%E4%B8%AD%E5%9B%BD_1021269
 trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@IEPL02.catcat-123.com:20028?allowInsecure=0&peer=tr-04.oneok.link&sni=tr-04.oneok.link#%7C%E5%9C%9F%E8%80%B3%E5%85%B6-IEPL+04
@@ -674,7 +641,6 @@ trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@IEPL02.catcat-123.com:20014?allowI
 trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@IEPL02.catcat-123.com:20017?allowInsecure=0&peer=tr-01.oneok.link&sni=tr-01.oneok.link#%7C%E5%9C%9F%E8%80%B3%E5%85%B6-IEPL+01
 trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@IEPL02.catcat-123.com:20010?allowInsecure=0&peer=cmhk-01.oneok.link&sni=cmhk-01.oneok.link#%E4%B8%AD%E5%9B%BD_1021241
 trojan://telegram-id-privatevpns@13.38.148.37:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92+TR-TCP-TLS+%E6%B3%95%E5%9B%BD-13.38.148.37%3A22222
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@85.117.235.179:443?security=tls&sni=$paydiu.com&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@52fe1bc9136a109bc3aaee68798ac193.v1.cac.node-is.green:41111?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E4%B8%AD%E5%9B%BD_1021414
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10387?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021292
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.220:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122798
@@ -741,6 +707,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://tg-dns68@162.159.153.131:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.153.131%3A443
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14391?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213237
 trojan://tg-dns68@162.159.153.130:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122822
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@eb6a26ec7aec9fc91e8ae60ad46523c4.node.tro.node-is.green:45193?allowInsecure=1&peer=console.ucloud.cn&sni=console.ucloud.cn#%E9%A6%99%E6%B8%AFBGP+%E4%B8%AD%E8%BD%AC+04+1.5x
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workeRs.DEV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workeRs.DEV&alpn=http%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workeRs.DEV#%E7%BE%8E%E5%9B%BD_102127582
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10063?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021298
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10072?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021299
@@ -766,7 +733,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10043?peer=fre
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.232:2053?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122831
 trojan://1038bc70-fe01-11ee-a6a2-1239d0255272@172.67.159.13:443?allowInsecure=1&sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fhowdy#%E7%BE%8E%E5%9B%BD_102127827
 trojan://tg-dns68@162.159.152.91:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122832
-trojan://56e1f11c-1217-46ab-b127-6afbc23bafba@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
+trojan://56e1f11c-1217-46ab-b127-6afbc23bafba@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=tcp#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021001
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.236:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122833
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.238:2053?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122834
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.235:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122835
@@ -816,6 +783,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14422?peer=fre
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10625?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102127833
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkeRs.DEv:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkeRs.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkeRs.DEv#%E7%BE%8E%E5%9B%BD_102127566
 trojan://tg-dns68@162.159.153.15:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.153.15%3A443
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10634?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E6%97%A5%E6%9C%AC+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B902
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workeRs.DEV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workeRs.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workeRs.DEV#%E7%BE%8E%E5%9B%BD_102127583
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@704c475d1457df3d54322838accfb4e2.v1.cac.node-is.green:49930#%E9%A6%99%E6%B8%AF_1021758
 trojan://tg-dns68@162.159.153.113:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.153.113%3A443
@@ -837,6 +805,7 @@ trojan://tg-dns68@162.159.153.120:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://b51ba790-bad1-11ed-9dec-1239d0255272@163.172.211.74:443?type=tcp&sni=tci.ir&allowInsecure=1#%E8%8D%B7%E5%85%B0_1021988
 trojan://your_password@16.171.12.136:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&type=tcp#SE%E7%91%9E%E5%85%B8%7C+aws-se-stockholm-1.f1rocketnode.com-443+%7C+321.26ms
 trojan://95b@212.34.150.221:2053#%E8%A5%BF%E7%8F%AD%E7%89%99_1021085
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@5ff7cd3fc25baa563603a132a069f94c.node.tro.node-is.green:43681?allowInsecure=1&peer=www.ucloud.cn&sni=www.ucloud.cn#%E6%96%B0%E5%8A%A0%E5%9D%A1BGP+%E4%B8%AD%E8%BD%AC+02+1.5x
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.240:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122853
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10185?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021321
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10186?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021322
@@ -909,14 +878,13 @@ trojan://382da577-21be-4199-abc9-dc89a7bbee3f@zzjp01.gutingting.com:20220?allowI
 trojan://hlt9v2Hqdf@104.21.40.222:2087?path=t.me%2Fv2Line&security=tls&host=v2line-telegram-channel-x782i7vepaeo729g70c09y7875cvm5vlyawhzw8.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou&type=ws&sni=7b20d3l49xojc05spo42kgtf0g4otiw5qfkdv52ww1lv7zq6hh97c3pq3ydr8oo.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou#%E6%9C%AA%E7%9F%A5_102122884
 trojan://Telegram-DailyConfigs@104.18.6.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_102122885
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErS.dEv:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErS.dEv&alpn=h3%2Ch2&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErS.dEv#%E6%9C%AA%E7%9F%A5_102123807
-trojan://gIRrGnuuNm@185.221.160.22:2096?security=tls&sni=mmd.v2rayngvz.online&fp=chrome&type=ws&path=/&host=mmd.v2rayngvz.online#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://gIRrGnuuNm@185.221.160.22:2096?security=tls&sni=mmd.v2rayngvz.online&fp=chrome&type=ws&path=/&host=mmd.v2rayngvz.online#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021298
 trojan://opentunnel.net-imohammad93@54.37.18.204:443?allowInsecure=1&sni=ukt-2.opensvr.net#%E6%B3%95%E5%9B%BD_1021507
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14227?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213048
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14229?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213049
 trojan://95b@89.248.207.37:443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021682
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErs.dev:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErs.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErs.dev#%E6%9C%AA%E7%9F%A5_102123509
 trojan://984e400bf5d541b7b0815913fe0c432a@104.17.61.4:443?allowInsecure=1&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#%E6%9C%AA%E7%9F%A5_102122886
-trojan://6aa57109-6cca-4939-8202-3e4baab15ccc@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp6&host=2jp6.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14253?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213051
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:14259?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213052
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443?allowInsecure=0#%F0%9F%94%92+TR-TCP-NA+%E6%97%A5%E6%9C%AC-74.226.136.204%3A443
@@ -959,7 +927,7 @@ trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@46b4993f5d19afb88cecafaa4d8e7f0a.n
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKeRs.Dev:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKeRs.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKeRs.Dev#%E7%BE%8E%E5%9B%BD_102127482
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@b021f5cf13cbf44b2f33b00b9c6dd70d.v1.cac.node-is.green:43847?allowInsecure=1&peer=ca1.speedtest.net&sni=ca1.speedtest.net#%E9%A6%99%E6%B8%AF_1021894
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:10948?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102127877
-trojan://join-bede-daily-configs@africa.visa.com:2083?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&alpn=h3,h2&host=kanale-daily-configs.blackoutconnection.ir&fp=chrome&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#%F0%9F%91%89%F0%9F%86%94+%40v2ray_configs_pool%F0%9F%93%A1%E7%BE%8E%E5%9B%BDUnited+States%60
+trojan://join-bede-daily-configs@africa.visa.com:2083?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&alpn=h3,h2&fp=chrome&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560#%40meli_proxyy
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.6.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.20.6.134%3A2083
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.163:443?allowInsecure=1&sni=jde1.jsjc.sbs#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1021368
 trojan://your_password@aws-kr-seoul-1.f1rocketnode.com:443?security=tls&sni=aws-kr-seoul-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-kr-seoul-1.f1rocketnode.com#%E9%9F%A9%E5%9B%BD_1021340
@@ -971,9 +939,8 @@ trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@autotrader.co.uk:443?security=tls&
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.DeV:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.DeV#%E7%BE%8E%E5%9B%BD_102127449
 trojan://95b@45.67.214.140:8443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021685
 trojan://NISHIKUITAN222@8.222.181.139:443?security=tls&type=ws&host=t222.ylks.link&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://3690911436885991424@winning-doe.sheepdog670.boats:443#ChatGPT+%E6%96%B0%E5%8A%A0%E5%9D%A1_410
+trojan://3690911436885991424@winning-doe.sheepdog670.boats:443#ChatGPT+%E6%96%B0%E5%8A%A0%E5%9D%A1_431
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workers.deV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workers.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workers.deV#%E6%9C%AA%E7%9F%A5_102123756
-trojan://qmgB6hWXBa@dbn.ircf.space:443?type=tcp&sni=star-one.cfd&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102127881
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#%E6%97%A5%E6%9C%AC-74.226.136.204-4078
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?allowInsecure=1&sni=in.stablize.top#%E6%97%A5%E6%9C%AC_10213058
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:10485?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021341
@@ -1001,7 +968,6 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKeRS.DEV:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKeRS.DEV&alpn=h2%2Chttp%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKeRS.DEV#%E7%BE%8E%E5%9B%BD_102127475
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@4ea55a5db39dfa062f707da520ce6938.v1.cac.node-is.green:43188#%E4%B8%AD%E5%9B%BD_1014347
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:11874?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021237
-trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@ce5d0e8a9e984c44814b9e552b9d2c04.node.tro.node-is.green:48413?allowInsecure=1&peer=live.douyin.com&sni=live.douyin.com#%E9%A6%99%E6%B8%AFBGP+%E4%B8%89%E7%BD%91%E7%9B%B4%E8%BF%9E1x
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:12002?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_1014725
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:11818?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021238
 trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#%F0%9F%94%92+TR-WS-TLS+%E5%B7%B4%E8%A5%BF-185.133.35.46%3A443
@@ -1030,13 +996,14 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://3648425794742788096@related-goblin.sheepdog670.boats:443?allowInsecure=1#%E6%8D%B7%E5%85%8B_1021020
 trojan://423c8688-0b8f-477c-8022-4fb187e18de1@pqawssg1.aiopen.cfd:443?allowInsecure=1&sni=18-140-66-207.#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021239
 trojan://7f1ab4bf-f28c-405b-afcc-0bc780358c2a@d1a0f4220f5ac85bf6f8c4c2b77f91fa.node.tro.node-is.green:40505#%E9%A6%99%E6%B8%AF_10211123
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@fef3d4358b943613cc70cdd95b8ffae6.node.tro.node-is.green:48908?allowInsecure=1&peer=www.ucloud.cn&sni=www.ucloud.cn#%E6%96%B0%E5%8A%A0%E5%9D%A1BGP+%E4%B8%AD%E8%BD%AC+01+1.5x
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErS.DeV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErS.DeV&alpn=h2%2Chttp%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErS.DeV#%E7%BE%8E%E5%9B%BD_102127735
 trojan://95b@206.238.236.8:2096#%E5%8D%97%E9%9D%9E_1021031
 trojan://tg-dns68@162.159.153.88:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122943
 trojan://tg-dns68@162.159.153.86:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.153.86%3A443
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkERS.deV:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkERS.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkERS.deV#%E6%9C%AA%E7%9F%A5_102123839
 trojan://tg-dns68@162.159.153.87:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.153.87%3A443
-trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.113:443?security=tls&sni=p2jp1.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp1&host=p2jp1.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.113:443?security=tls&sni=p2jp1.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp1&host=p2jp1.pqjc.buzz#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021007
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32743?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021368
 trojan://yQv5eKUffI@ptk.ircf.space:443?type=tcp&sni=star-one.cfd&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122945
 trojan://3648425794742788096@special-worm.sheepdog670.boats:443?allowInsecure=1#%E5%A1%9E%E8%88%8C%E5%B0%94_1021032
@@ -1106,7 +1073,7 @@ trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?security=tls&allo
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.19.171.8:443?allowInsecure=1&sni=jobscareerforlawyers.com&type=ws&path=6b777a91#%E6%9C%AA%E7%9F%A5_102122978
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.dEV:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.dEV&alpn=h2&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.dEV#%E7%BE%8E%E5%9B%BD_102127562
 trojan://88850150-eb66-11ed-b89b-1239d0255272@51.159.59.186:443?type=tcp&sni=namasha.com&allowInsecure=1#%E6%B3%95%E5%9B%BD_1021511
-trojan://TJCfE7Mx2YcA8kX8zg@nl3.chuqiangtou.net:4003?allowInsecure=1#_IL_%E4%BB%A5%E8%89%B2%E5%88%97-%3E_NL_%E8%8D%B7%E5%85%B0
+trojan://TJCfE7Mx2YcA8kX8zg@nl3.chuqiangtou.net:4003?allowInsecure=1#%E4%BB%A5%E8%89%B2%E5%88%97_1021004
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.16.159.5%3A443
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:11119?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021241
 trojan://your_password@aws-ch-zurich-1.f1rocketnode.com:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1rocketnode.com#%E7%91%9E%E5%A3%AB_1021016
@@ -1114,7 +1081,6 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32817?peer=fre
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32815?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021387
 trojan://fe455c1d-33ab-439d-acdb-449bba167fb1@31.210.53.107:443?type=tcp&sni=tlsdata.cnamazon.sbs&allowInsecure=1#%E5%9C%9F%E8%80%B3%E5%85%B6_1021016
 trojan://Ck0nkbbsur@172.64.150.8:2096?type=ws&path=%2Fwsss&security=tls&sni=tls.redbullplus.xyz#%E7%BE%8E%E5%9B%BD_102127911
-trojan://od1gSqyXQD@185.59.218.74:2083?security=tls&sni=rayeganvasehame.flchlast.online&fp=chrome&type=ws&path=/wss28359?ed%3D2048&host=rayeganvasehame.flchlast.online#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32835?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021388
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkerS.dEV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkerS.dEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkerS.dEV#%E6%9C%AA%E7%9F%A5_102123443
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp1.aiopen.cfd:443?allowInsecure=0&sni=18-140-66-207.nhost.00cdn.com#%E6%97%A5%E6%9C%AC+44
@@ -1169,7 +1135,6 @@ trojan://auto@162.159.153.243:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@0368990be0495c264455b15531c1f154.node.tro.node-is.green:47575#%E4%B8%AD%E5%9B%BD_1021296
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:11440?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021248
 trojan://NISHIKUITAN222@34.147.231.33:443?allowInsecure=0&ws=1&wspath=%2F#%E7%BE%8E%E5%9B%BD
-trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@955409173c35d93a69b5d298f10075cc.node.tro.node-is.green:44640?allowInsecure=1&peer=api.ucloud.cn&sni=api.ucloud.cn#%E7%BE%8E%E5%9B%BDBGP+%E4%B8%AD%E8%BD%AC+02+1.5x
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@ea911dd431c49d21acb67a96f9bbdd2a.node.tro.node-is.green:40315#%E9%A6%99%E6%B8%AF_10211119
 trojan://mJ3WWiVb0kGNio7fQNAjnA@zula.ir:80?type=ws&host=shop.fa-behsazan.ir&path=%2Fshop&security=tls&sni=shop.fa-behsazan.ir#%E6%9C%AA%E7%9F%A5_102123481
 trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@CN-SHCM.catcat-123.com:9300?allowInsecure=0&peer=hinet-01.oneok.link&sni=hinet-01.oneok.link#%7C%E5%8F%B0%E6%B9%BE-%E8%BF%9B%E9%98%B6+01
@@ -1197,7 +1162,7 @@ trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@392da584f0b249c65d27d6049a9dbb0b.v
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32667?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021399
 trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443?security=tls&sni=de1.test3.net&type=tcp#%F0%9F%8F%81RELAY-162.159.137.232-466
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32677?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021402
-trojan://56e1f11c-1217-46ab-b127-6afbc23bafba@188.42.145.113:443?security=tls&sni=p2jp1.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp1&host=p2jp1.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://56e1f11c-1217-46ab-b127-6afbc23bafba@188.42.145.113:443?security=tls&sni=p2jp1.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp1&host=p2jp1.pqjc.buzz#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021013
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32683?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021403
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@38921bd0d6b23d9300dc5160082bee33.node.tro.node-is.green:47869#%E9%A6%99%E6%B8%AF_1021877
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:32690?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021404
@@ -1218,7 +1183,6 @@ trojan://95b@176.124.223.133:2096#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_
 trojan://95b@156.225.72.246:2087#%E7%BE%8E%E5%9B%BD_102127949
 trojan://44123e4a-3480-4392-978c-b4eb1b3095d7@CN-SHCM.catcat-123.com:9220?allowInsecure=0&peer=SG-05.oneok.link&sni=SG-05.oneok.link#%E4%B8%AD%E5%9B%BD_1021250
 trojan://89120aac-ef9b-3b20-af22-21bacb8701d9@35.75.8.137:443?allowInsecure=1#%E6%97%A5%E6%9C%AC_10213090
-trojan://15aa1dfe-99d1-4bbb-bd53-2f5ff032a539@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp6&host=2jp6.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
 trojan://95b@5.35.36.20:2053#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021690
 trojan://3648425794742788096@exact-squirrel.opossum872.cfd:443?allowInsecure=1#%E7%88%B1%E5%B0%94%E5%85%B0_1021023
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@03a5e1211b678fd78db48ad60b542b42.node.tro.node-is.green:47829#%E9%A6%99%E6%B8%AF_10211039
@@ -1230,7 +1194,7 @@ trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@5891a80b49ef39ba338b40445e74941a.n
 trojan://6aa57109-6cca-4939-8202-3e4baab15ccc@89.116.180.158:443?type=ws&sni=3us2.pqjc.buzz&allowInsecure=1&path=/pq/us2&host=3us2.pqjc.buzz#%E7%BE%8E%E5%9B%BD_102127950
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15194?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102127951
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-3138
-trojan://a906625d-446c-468f-9e26-1d15981fa0e9@nl-full.privateip.net:443#%E8%8D%B7%E5%85%B0_511
+trojan://a906625d-446c-468f-9e26-1d15981fa0e9@nl-full.privateip.net:443#%E8%8D%B7%E5%85%B0_510
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15139?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102127952
 trojan://95b@213.241.198.56:2083#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021693
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15143?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102127954
@@ -1325,12 +1289,11 @@ trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@ebb6b64431b3f95ef9a4345c393ff364.v
 trojan://9KogHwaY7hVD@96.126.123.244:443?type=tcp&sni=eu-east-ruo.openssl3.com&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102127991
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workERs.dEv:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workERs.dEv&alpn=h2%2Chttp%2F1.1&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workERs.dEv#%E6%9C%AA%E7%9F%A5_102123693
 trojan://CMLiu@172.64.154.219:8443?type=ws&sni=trojan.pagess.filegear-sg.me&allowInsecure=1&path=/&host=trojan.pagess.filegear-sg.mehttp/1.1#%E7%BE%8E%E5%9B%BD_102127996
-trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@185.135.81.207:443?security=tls&sni=t.me/vpnhat&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:11678?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_10211074
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@eee28d777a537f3f10130388ea2a017e.node.tro.node-is.green:45754#%E9%A6%99%E6%B8%AF_1021127
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:11622?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_1018742
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKerS.dEv:2083?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKerS.dEv&alpn=h2&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKerS.dEv#%E6%9C%AA%E7%9F%A5_102123825
-trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp5&host=3jp5.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp5&host=3jp5.pqjc.buzz#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021009
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workErs.deV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workErs.deV&alpn=h2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.workErs.deV#%E6%9C%AA%E7%9F%A5_102123401
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.107:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123063
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.77.90:4003?type=tcp&sni=149.50.77.90&allowInsecure=1#%E4%BB%A5%E8%89%B2%E5%88%97_1021014
@@ -1381,7 +1344,6 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:11527?peer=fre
 trojan://3648425794742788096@winning-doe.sheepdog670.boats:443?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021438
 trojan://H9SbfFDmmK@apt.ircf.space:443?type=tcp&sni=star-one.cfd&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128030
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.119:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123071
-trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@deb9d9dd411366cc5fe17c55bba0a2ac.node.tro.node-is.green:43550?allowInsecure=1&peer=api.ucloud.cn&sni=api.ucloud.cn#%E7%BE%8E%E5%9B%BDBGP+%E4%B8%AD%E8%BD%AC+01+1.5x
 trojan://3f946c5f-5960-3c01-a674-6dac90398daf@hkvip101.qlgq.fun:12249#%E9%A6%99%E6%B8%AF_1021803
 trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@98a7227b241c06680b1bcdaee560f310.node.tro.node-is.green:47014#%E9%A6%99%E6%B8%AF_10211072
 trojan://Go5e2nKM9U@45.85.119.179:2087?path=JoinUs@v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A_1021160
@@ -1389,8 +1351,8 @@ trojan://auto@43.129.160.101:54739?allowInsecure=1&sni=tg.cmliussss.us.kg&type=w
 trojan://88903f70-b50b-11ed-8775-f23c9164ca5d@97e355d4-sjlts0-sjblbk-wk2w.ru.z7zi.com:1007?type=tcp&security=tls#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021712
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@e4eb2a30e02945879eeb175a33194bff.v1.cac.node-is.green:41111?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E4%B8%AD%E5%9B%BD_1021339
 trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@zula.ir:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&alpn=http%2F1.1&type=ws&host=trojan.trojan0.woRkeRS.deV&path=trojan-ws%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_102123477
-trojan://bd82a968-592c-42ce-a308-2a4c155e6710@185.176.24.105:443?security=tls&sni=k9de1.djjc.sbs&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@185.176.24.162:443?security=tls&sni=c3mc.ciscocdn1.live&fp=chrome&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&host=c3mc.ciscocdn1.live#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://bd82a968-592c-42ce-a308-2a4c155e6710@185.176.24.105:443?security=tls&sni=k9de1.djjc.sbs&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021295
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@185.176.24.162:443?security=tls&sni=c3mc.ciscocdn1.live&fp=chrome&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&host=c3mc.ciscocdn1.live#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021299
 trojan://6d2cbed8-9dc5-4582-bd34-30ced7a142a5@s.eeeeeef998.buzz:16107#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021122
 trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.20.78.17%3A443
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@70206bd4aba81a9a745c8032c71a5393.v1.cac.node-is.green:42048#%E4%B8%AD%E5%9B%BD_1021350
@@ -1413,7 +1375,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:15144?peer=fre
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@103.224.212.213:443?security=tls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&alpn=http/1.1&type=tcp#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021250
 trojan://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#%F0%9F%94%92+TR-HTTPUPGRADE-NONE+%E7%91%9E%E5%85%B8-185.146.173.52%3A8880
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkERs.dEV:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkERs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkERs.dEV#%E6%9C%AA%E7%9F%A5_102123631
-trojan://e1be7c0c-69da-4699-a105-64e949da366c@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
+trojan://e1be7c0c-69da-4699-a105-64e949da366c@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=tcp#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021002
 trojan://DailyConfigs@172.64.146.66:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E7%BE%8E%E5%9B%BD_102128721
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15656?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128038
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15667?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128039
@@ -1433,7 +1395,7 @@ trojan://95b@108.165.152.93:2083#%E7%BE%8E%E5%9B%BD_102128045
 trojan://4732adfa16c6450bbef87264e41332db@104.17.215.18:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.17.215.18%3A443
 trojan://5d0d0c47-1e55-30c4-91dd-c1a55d6ab260@35.75.8.137:443?allowInsecure=1#%E6%97%A5%E6%9C%AC_10213098
 trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.66.47.155%3A443
-trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&fp=chrome&type=grpc&serviceName=grpc20337#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-GRPC-TLS+4%E2%83%A3
+trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&fp=chrome&type=grpc&serviceName=grpc20337#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021294
 trojan://auto@104.18.1.89:443?security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.1.89%3A443
 trojan://Trevely@108.162.193.110:443?security=tls&sni=trojan.trevely.us.kg#%F0%9F%8F%81RELAY-108.162.193.110-0513
 trojan://Daily_Configs@cis.visa.com:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_102123095
@@ -1527,6 +1489,7 @@ trojan://95b@46.254.92.142:2087#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_10
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15409?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128087
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawssg2.aiopen.cfd:443?allowInsecure=0&sni=18-140-66-207.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+46
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERS.DEV:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERS.DEV&alpn=h2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERS.DEV#%E7%BE%8E%E5%9B%BD_102127569
+trojan://7f1ab4bf-f28c-405b-afcc-0bc780358c2a@9ca2ab39bf0ddfc16f4ad0d8ebeec517.node.tro.node-is.green:43406#%E9%A6%99%E6%B8%AFTROJAN%E7%9B%B4%E8%BF%9E+0.01x
 trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@gsawsjp2.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1#_JP_%E6%97%A5%E6%9C%AC
 trojan://95b@64.69.24.13:443#%E7%BE%8E%E5%9B%BD_102128089
 trojan://b3d27d09-77fe-431d-9829-6eba7dce20b0@1.earths.team:443?type=tcp&sni=1.earths.team&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128090
@@ -1567,7 +1530,7 @@ trojan://tg-dns68@162.159.153.1:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15579?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128096
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.159:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123132
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@d9fc1cd86be0604c8c601b2082f81964.v1.cac.node-is.green:49866?allowInsecure=1&peer=jp12.speedtest.net&sni=jp12.speedtest.net#%E4%B8%AD%E5%9B%BD_1021345
-trojan://join-bede-daily-configs@104.18.6.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.6.36%3A8443
+trojan://join-bede-daily-configs@104.18.6.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.6.36%3A8443
 trojan://Daily_Configs@104.21.90.210:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123134
 trojan://95b@86.38.214.186:443#%E7%BE%8E%E5%9B%BD_102128099
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@80af9bc23749403e4fa1be9dcacb53a7.v1.cac.node-is.green:48549#%E9%A6%99%E6%B8%AF_1021863
@@ -1688,7 +1651,7 @@ trojan://95b@188.164.159.49:2087#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1021054
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.dev:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.dev#%E7%BE%8E%E5%9B%BD_102127637
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:15692?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021411
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.79:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123180
-trojan://3690911436885991424@deciding-mantis.opossum872.cfd:443#ChatGPT+%E6%97%A5%E6%9C%AC_306
+trojan://3690911436885991424@deciding-mantis.opossum872.cfd:443#ChatGPT+%E6%97%A5%E6%9C%AC_321
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.130:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123181
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.131:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123182
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.133:2053?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123183
@@ -1798,7 +1761,6 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:37799?peer=fre
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.148:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123222
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKERS.DEv:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKERS.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKERS.DEv#%E7%BE%8E%E5%9B%BD_102127354
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15835?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128162
-trojan://d2698cf9-c47e-455c-8384-12e642cbba15@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp6&host=2jp6.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:15843?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128163
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErs.DEv:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErs.DEv&alpn=http%2F1.1&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrKErs.DEv#%E7%BE%8E%E5%9B%BD_102127640
 trojan://mnk8fd@104.21.69.52:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Ff1rocket&host=aws-us-oregon-1.f1cflinec.com#RELAY%F0%9F%9A%A9+%7C+aws-us-oregon-1.f1cflinec.com-443+%7C+28.13ms
@@ -1908,7 +1870,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:15996?peer=fre
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.166:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123250
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.40:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123251
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.41:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123252
-trojan://1d0a80ca-0f96-4016-ac51-c284dedd28a1@85.117.234.145:443?security=tls&sni=insaneguo2333.top&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
+trojan://1d0a80ca-0f96-4016-ac51-c284dedd28a1@85.117.234.145:443?security=tls&sni=insaneguo2333.top&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021024
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.168:2053?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123254
 trojan://tg-dns68@162.159.153.198:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102123255
 trojan://fcc3eaad-60be-42e1-86be-7b0103c13493@trny.ballistics.top:443?allowInsecure=1&sni=trny.ballistics.top#%E9%A6%99%E6%B8%AF_1021782
@@ -2069,6 +2031,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:11044?peer=fre
 trojan://telegram-id-privatevpns@52.214.169.156:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92+TR-TCP-TLS+%E7%88%B1%E5%B0%94%E5%85%B0IE-52.214.169.156%3A22222
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.27:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123318
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:37321?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021476
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@fe177bc7ccd1337f45e89bc32cdcb22b.node.tro.node-is.green:47279?allowInsecure=1&peer=console.ucloud.cn&sni=console.ucloud.cn#%E9%A6%99%E6%B8%AFBGP+%E4%B8%AD%E8%BD%AC+01+1.5x
 trojan://your_password@aws-jp-tokyo-1.f1rocketnode.com:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-jp-tokyo-1.f1rocketnode.com#%E6%97%A5%E6%9C%AC_10212736
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.24:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123319
 trojan://Daily-Configs-Channel@104.18.5.46:2083?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2#%E6%9C%AA%E7%9F%A5_102123320
@@ -2148,7 +2111,7 @@ trojan://DailyConfigs@172.67.161.104:443?security=tls&sni=kanale-daily-configs.b
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.1:443?allowInsecure=1&sni=jobscareerforstudent.com&type=ws&path=6b777a91#%E6%9C%AA%E7%9F%A5_102123353
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:11101?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128248
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.10:443?type=ws&path=%2F%3Fed%3D2048&security=tls&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A5_102123354
-trojan://TJCfE7Mx2YcA8kX8zg@jp3.chuqiangtou.net:4003?allowInsecure=1#+%E4%BB%A5%E8%89%B2%E5%88%97++2
+trojan://TJCfE7Mx2YcA8kX8zg@jp3.chuqiangtou.net:4003?allowInsecure=1#%E4%BB%A5%E8%89%B2%E5%88%97_1021001
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123355
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:11921?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_10141068
 trojan://dd4a09eb-3ff1-49fd-b420-b280a56843a3@a994d567e180165dbf8f6ba3871770c1.v1.cac.node-is.green:47096#%E4%B8%AD%E5%9B%BD_1014380
@@ -2161,7 +2124,6 @@ trojan://d4ff43e1-3131-4c32-e41b-716303c8ee49@104.17.147.22:8880?security=none&t
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:13837?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021074
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:15481?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_10211072
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKErs.dev:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKErs.dev&alpn=http%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKErs.dev#%E7%BE%8E%E5%9B%BD_102127670
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@bf25d9e9bf2b732bcc860ff737741a69.v1.cac.node-is.green:40656?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31052?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021137
 trojan://aa28db40-fc4a-11ee-83c8-1239d0255272@104.21.69.44:443?allowInsecure=1&sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fhowdy#%E6%9C%AA%E7%9F%A5_102123204
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31067?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021138
@@ -2190,7 +2152,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.64:443?type=ws&host=tjjd
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.137:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123370
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.136:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102123371
 trojan://d0cb2ce0-c15e-11ed-8935-1239d0255272@5.254.26.72:443?type=tcp&sni=yahoo.com&allowInsecure=1#%E5%BE%B7%E5%9B%BD_10211258
-trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@95.164.116.35:443#%E7%9B%B4%E5%B8%83%E7%BD%97%E9%99%80_488
+trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@95.164.116.35:443#%E7%9B%B4%E5%B8%83%E7%BD%97%E9%99%80_485
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.185:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102121918
 trojan://bpb-trojan@104.19.35.14:443?security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrbo9SGocZQNTqq3Cd%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&fp=randomized&alpn=http/1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.19.35.14%3A443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.184:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102121920
@@ -2212,6 +2174,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:12137?peer=fre
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31136?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021144
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31139?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021145
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31133?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021146
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@fc3eb9b022b993fffd5cd16940845f0a.node.tro.node-is.green:47928?allowInsecure=1&peer=api.ucloud.cn&sni=api.ucloud.cn#%E7%BE%8E%E5%9B%BDBGP+%E4%B8%AD%E8%BD%AC+03+1.5x
 trojan://CMLiu@150.66.24.104:34237?type=ws&sni=trojan.pagess.filegear-sg.me&allowInsecure=1&path=/&host=trojan.pagess.filegear-sg.mehttp/1.1#%E6%97%A5%E6%9C%AC_10212693
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31142?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021148
 trojan://95b@23.94.136.126:80#%E7%BE%8E%E5%9B%BD_102128003
@@ -2261,7 +2224,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.190:8443?type=ws&host=tj
 trojan://95b@176.53.144.206:8443#%E8%8B%B1%E5%9B%BD_1021215
 trojan://2f201f44-c107-45fb-b898-1c0c28e30edd@gcore.com:443?allowInsecure=1&sni=sw.g.esmahdi9.org#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021109
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.196:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102121943
-trojan://6aa57109-6cca-4939-8202-3e4baab15ccc@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp5&host=3jp5.pqjc.buzz#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://6aa57109-6cca-4939-8202-3e4baab15ccc@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&allowInsecure=1&fp=chrome&type=ws&path=/pq/jp5&host=3jp5.pqjc.buzz#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021012
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKERS.deV:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKERS.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorKERS.deV#%E6%9C%AA%E7%9F%A5_102123667
 trojan://3648425794742788096@pleased-prawn.opossum872.cfd:443?allowInsecure=1#%E9%9F%A9%E5%9B%BD_1021086
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:12029?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021145
@@ -2269,7 +2232,7 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:13894?peer=fre
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:13893?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021088
 trojan://3c037aeb-cacf-4dd7-b17d-54fbe404235d@ip0axv1bbsu02k7-hk.1ytnode.com:56307?allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128252
 trojan://3c037aeb-cacf-4dd7-b17d-54fbe404235d@ip0axv1bbsu02k7-hk.1ytnode.com:56306?allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128253
-trojan://gIRrGnuuNm@45.142.120.10:2096?security=tls&sni=mmd.v2rayngvz.online&fp=chrome&type=ws&path=/&host=mmd.v2rayngvz.online#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://gIRrGnuuNm@45.142.120.10:2096?security=tls&sni=mmd.v2rayngvz.online&fp=chrome&type=ws&path=/&host=mmd.v2rayngvz.online#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021305
 trojan://3c037aeb-cacf-4dd7-b17d-54fbe404235d@ip0axv1bbsu02k7-hk.1ytnode.com:56311?allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128254
 trojan://3c037aeb-cacf-4dd7-b17d-54fbe404235d@ip0axv1bbsu02k7-hk.1ytnode.com:56314?allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128255
 trojan://3c037aeb-cacf-4dd7-b17d-54fbe404235d@ip0axv1bbsu02k7-hk.1ytnode.com:56316?allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128257
@@ -2455,7 +2418,6 @@ trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@5492c063c116649d9d10dc22c47e6dd1.v
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:16938?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021156
 trojan://db4fb0e6-0e5b-4b12-95ac-03e60f5685d7@gshinet1.aiopen.cfd:443?type=tcp&sni=20-212-60-88.nhost.00cdn.com&allowInsecure=1#_TW_%E5%8F%B0%E6%B9%BE
 trojan://EJBsFzWnEgXZnmzHq8@os1-3.nrojat.com:443#%E6%97%A5%E6%9C%AC_10212763
-trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@8a1c910fbf359010b3dc8a9462e03b41.node.tro.node-is.green:46833?allowInsecure=1&peer=www.ucloud.cn&sni=www.ucloud.cn#%E6%96%B0%E5%8A%A0%E5%9D%A1BGP+%E4%B8%AD%E8%BD%AC+02+1.5x
 trojan://b5a21d2a-6208-4e23-91ab-c2423c2ae362@sg2.microsoft-orgwly.vip:80?type=tcp&sni=tls.microsoft-orgwly.vip&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021333
 trojan://f6f9c030-085d-3969-9b6f-34a46d3b47fe@hkvip101.qlgq.fun:12249#%E9%A6%99%E6%B8%AF_1021818
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKErs.DEv:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKErs.DEv&alpn=h3%2Ch2&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKErs.DEv#%E7%BE%8E%E5%9B%BD_102127723
@@ -2584,7 +2546,7 @@ trojan://fdd38a91-b659-3ab8-86b3-70f5f8fb2113@hkvip101.qlgq.fun:12249#%E9%A6%99%
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:35578?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021200
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@bluehost.com:443?type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&security=tls&sni=msnghdfy4c2.cpiforpersia.uk&alpn=http%2F1.1&fp=chrome#%E6%9C%AA%E7%9F%A5_102123709
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:35591?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021201
-trojan://fe066c73-d2f4-4471-9d38-beb1ea6c2068@195.133.53.52:17615?security=tls&sni=data.52daishu.life&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Novosibirsk+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
+trojan://fe066c73-d2f4-4471-9d38-beb1ea6c2068@195.133.53.52:17615?security=tls&sni=data.52daishu.life&allowInsecure=1&fp=chrome&type=tcp#%E6%8D%B7%E5%85%8B_1021001
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:13988?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021128
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:13997?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021131
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn#%F0%9F%94%92+TR-TCP-NA+%E4%B8%AD%E5%9B%BD-42.236.73.72%3A443
@@ -2666,6 +2628,7 @@ trojan://auto@188.114.99.222:443?security=tls&sni=migekehcode27.kiwaja6458.worke
 trojan://95b@27.50.49.188:2096#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021347
 trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@42.earths.team:443?type=tcp&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128345
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.DEV:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WOrkeRs.DEV#%E7%BE%8E%E5%9B%BD_102127352
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@98db4f63b79210d8af3667769c7ce126.node.tro.node-is.green:46874?allowInsecure=1&peer=api.ucloud.cn&sni=api.ucloud.cn#%E7%BE%8E%E5%9B%BDBGP+%E4%B8%AD%E8%BD%AC+04+1.5x
 trojan://TELEGRAM-Daily-Configs@172.64.146.66:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E7%BE%8E%E5%9B%BD_102128346
 trojan://8c41eab4-cafe-4734-9695-f1a719359c3d@tw4.233235.xyz:670#%E5%8F%B0%E6%B9%BE_1021041
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=telewebion.com#%E7%BE%8E%E5%9B%BD-135.148.148.4-9207
@@ -2683,6 +2646,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.104:8443?type=ws&host=tj
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.103:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122087
 trojan://95b@194.164.35.192:2053#%E8%8B%B1%E5%9B%BD_1021221
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?type=tcp&security=tls&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A5_102122090
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:12953?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E9%A6%99%E6%B8%AF+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15504?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212810
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15511?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212811
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15520?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212812
@@ -2707,6 +2671,8 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@gsawssg1.aiopen.cfd:443?allowInsecure=0&sni=18-140-66-207.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+42
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%E6%B3%A2%E5%85%B0-51.83.186.142-4938
 trojan://95b@27.50.49.179:2096#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021351
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@1a738f93b7cbd8c870ff090e35ba25a1.v1.cac.node-is.green:44434?allowInsecure=1&peer=ca1.speedtest.net&sni=ca1.speedtest.net#V1-%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@7fd90a131de5a10e00a9fdf0fc5a2885.node.tro.node-is.green:40453?allowInsecure=1&peer=www.ahu.edu.cn&sni=www.ahu.edu.cn#%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BEBGP+%E4%B8%AD%E8%BD%AC+02+1.5x
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkErs.Dev:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkErs.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORkErs.Dev#%E6%9C%AA%E7%9F%A5_102123635
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRkErs.DeV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRkErs.DeV&alpn=h3%2Ch2&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRkErs.DeV#%E7%BE%8E%E5%9B%BD_102127481
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.1:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122098
@@ -2731,11 +2697,11 @@ trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.206:443?security=tls&s
 trojan://DailyConfigs@172.67.68.157:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=firefox#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.67.68.157%3A443
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERs.DEv:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERs.DEv&alpn=http%2F1.1&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERs.DEv#%E6%9C%AA%E7%9F%A5_102123577
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.Dev:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.Dev&alpn=h2%2Chttp%2F1.1&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkErs.Dev#%E6%9C%AA%E7%9F%A5_102123563
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@cb43a04b02ca464f3f3a6afa2538eb3b.node.tro.node-is.green:43568?allowInsecure=1&peer=api.ucloud.cn&sni=api.ucloud.cn#%E7%BE%8E%E5%9B%BDBGP+%E4%B8%AD%E8%BD%AC+01+1.5x
 trojan://95b@174.136.205.115:24378#%E7%BE%8E%E5%9B%BD_102128356
 trojan://7b05b7cc-4ac3-4c30-8df9-36e89f253a3d@vip6sao1.5gtocdocao.com:443?allowInsecure=1#%3E%E8%B6%8A%E5%8D%97%7CMs%7C0914%7CTG%40FProxies%7C
 trojan://NISHIKUITAN222@104.26.13.31:443?type=ws&path=%2F&security=tls&sni=t070.ylks.link#%E7%BE%8E%E5%9B%BD_102128357
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKERs.dEV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKERs.dEV&alpn=h3%2Ch2&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKERs.dEV#%E7%BE%8E%E5%9B%BD_102127383
-trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
 trojan://3648425794742788096@valid-mongrel.sunbeam921.monster:443?allowInsecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021174
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKERs.dEV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKERs.dEV&alpn=h3%2Ch2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKERs.dEV#%E7%BE%8E%E5%9B%BD_102127384
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORKERS.DeV:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORKERS.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WORKERS.DeV#%E7%BE%8E%E5%9B%BD_102127753
@@ -2833,8 +2799,8 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://246c48e0-14a8-11ef-ae4b-1239d0255272@172.67.204.84:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=fr1.test3.net#%E7%BE%8E%E5%9B%BD_102128379
 trojan://354ca566-3ab4-4e4e-9594-8693d78bc2c7@209.97.134.140:443#%E8%8B%B1%E5%9B%BD_1021224
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@a047e83083ae303277f183eadab6d487.v1.cac.node-is.green:42551#%E9%A6%99%E6%B8%AF_10211136
-trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15023?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B903
 trojan://kiEPh1Va9z@fnv.ircf.space:443?type=tcp&sni=star-one.cfd&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128382
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15031?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC+%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B903
 trojan://79ddc736-7304-3b95-b814-b27765e59484@jp2.88888804.xyz:443?security=tls&type=ws&path=/91838f3b905c42c7aa5b664b27d8193b#%E6%9C%AA%E7%9F%A5_102123430
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15054?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10213127
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.140:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122142
@@ -2877,7 +2843,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.103:2053?type=ws&host=tj
 trojan://79ddc736-7304-3b95-b814-b27765e59484@us3.88888804.xyz:443?security=tls&type=ws&path=/91838f3b905c42c7aa5b664b27d8193b#%E6%9C%AA%E7%9F%A5_102123722
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15109?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212845
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:15116?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212846
-trojan://TJCfE7Mx2YcA8kX8zg@hk1.chuqiangtou.net:4003?allowInsecure=1#+%E4%BB%A5%E8%89%B2%E5%88%97++27
+trojan://TJCfE7Mx2YcA8kX8zg@hk1.chuqiangtou.net:4003?allowInsecure=1#%E4%BB%A5%E8%89%B2%E5%88%97_1021006
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.102:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122160
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.101:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122161
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.101:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122163
@@ -2898,7 +2864,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.105:2087?type=ws&host=tj
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.107:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122177
 trojan://3c037aeb-cacf-4dd7-b17d-54fbe404235d@ip0axv1bbsu02k7-sg.1ytnode.com:56340?allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128399
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKErs.dEV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKErs.dEV&alpn=h3%2Ch2&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKErs.dEV#%E6%9C%AA%E7%9F%A5_102123680
-trojan://TJCfE7Mx2YcA8kX8zg@us3.chuqiangtou.net:4003?allowInsecure=1#_IL_%E4%BB%A5%E8%89%B2%E5%88%97-%3E_US_%E7%BE%8E%E5%9B%BD
+trojan://TJCfE7Mx2YcA8kX8zg@us3.chuqiangtou.net:4003?allowInsecure=1#%E4%BB%A5%E8%89%B2%E5%88%97_1021003
 trojan://Bia-Daily-Configs@104.18.6.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_102122178
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@2c1428875b76361014dbbe8cbb172b2a.v1.cac.node-is.green:44708#%E9%A6%99%E6%B8%AF_10211030
 trojan://95b@188.164.159.234:2083#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1021038
@@ -2919,6 +2885,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.159:8443?type=ws&host=tj
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31277?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021232
 trojan://95b@154.197.64.196:2087#%E5%A1%9E%E8%88%8C%E5%B0%94_1021022
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@e8212859e1cb538ccce6c1c7e29dba2f.v1.cac.node-is.green:44632#%E9%A6%99%E6%B8%AF_10211017
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@16dd561c4a7338cabfe99428b02ce10c.node.tro.node-is.green:45904?allowInsecure=1&peer=passport.ucloud.cn&sni=passport.ucloud.cn#%E6%97%A5%E6%9C%ACBGP+%E4%B8%AD%E8%BD%AC+02+1.5x
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31285?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021233
 trojan://c0a151c0-891e-11ed-b935-225401db9d57@sg-ovh.tjvpn.org:443?type=tcp&security=tls&sni=sg-ovh.tjvpn.org&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1014131
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31297?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021234
@@ -2955,7 +2922,7 @@ trojan://bpb-trojan@172.67.146.69:443?security=tls&sni=403b3611-99bC-43B7-88D7-2
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2083?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122219
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122220
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.117:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122221
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@168.138.73.206:40003#_372
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@168.138.73.206:40003#_380
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.117:2087?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122223
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.119:2096?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122224
 trojan://Bia-Daily-Configs@africa.visa.com:2083?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&alpn=h3%2Ch2&fp=chrome&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_102122225
@@ -2968,7 +2935,7 @@ trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@d09a39fe8e3f5a4230ce518d6c132a85.v
 trojan://2aecd807-bbff-4afe-8459-81b0a390fc50@trxjp.ballistics.top:443?sni=trxjp.ballistics.top#%E9%A6%99%E6%B8%AF_1021838
 trojan://Daily-Configs-Channel@www.wto.org:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#%E7%BE%8E%E5%9B%BD_102127534
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:31388?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021246
-trojan://3672449442956713984@sure-mutt.sunbeam921.monster:443#ChatGPT+%E7%BE%8E%E5%9B%BD_1376
+trojan://3672449442956713984@sure-mutt.sunbeam921.monster:443#ChatGPT+%E7%BE%8E%E5%9B%BD_1416
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@e3739ae1b7e0e99d0ad03780e075f990.v1.cac.node-is.green:49119#%E9%A6%99%E6%B8%AF_1021922
 trojan://DailyConfigs@104.18.5.46:2083?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=chrome&alpn=h3,h2#%E6%9C%AA%E7%9F%A5_102122230
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.21.69.44:8443?security=tls&sni=vfarid.xcdi.woRkers.DeV&type=ws&host=vfarid.xcdi.woRkers.DeV&path=trojan-ws%2F%3Fed%3D2048&alpn=http/1.1#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.21.69.44%3A8443
@@ -3022,7 +2989,7 @@ trojan://96884680-77e6-11eb-8d67-1239d0255272@nl-trojan.bonds.id:443?allowInsecu
 trojan://Daily_Configs@104.18.7.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122268
 trojan://95b@188.164.159.214:2083#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1021039
 trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@52.231.36.138:443?security=tls&sni=krnode01.oportal.cc&type=tcp&headerType=none#%40Vip_Security+join+us+-+30
-trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&fp=chrome&type=ws&path=/wss24142?ed%3D2048&host=teo.history-paint.art#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+NA+%F0%9F%8C%8D+TR-WS-TLS+4%E2%83%A3
+trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&fp=chrome&type=ws&path=/wss24142?ed%3D2048&host=teo.history-paint.art#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021303
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.178:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122270
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkerS.DEv:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkerS.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkerS.DEv#%E6%9C%AA%E7%9F%A5_102123452
 trojan://vTQAbn1fCM@172.67.186.26:443?allowInsecure=1&sni=bitc.oulix.ir&type=ws&host=bitc.oulix.ir&path=/6b2b91a4-8ee8-4a3c-ad01-5f4d1ec908fc/b4886260d09fec58c23c4f9fbdf6353d#%E7%BE%8E%E5%9B%BD_102128412
@@ -3034,6 +3001,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://auto@104.19.42.46:443?security=tls&sni=tg.cmliussss.us.kg&type=ws&host=tg.cmliussss.us.kg&path=%2F#%E6%9C%AA%E7%9F%A5_102122273
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkeRS.DEv:8443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkeRS.DEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkeRS.DEv#%E6%9C%AA%E7%9F%A5_102123754
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehk01.jd0001.top:17032?peer=freehk01.jd0001.top&sni=freehk01.jd0001.top&type=grpc&security=tls&serviceName=freehk01#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_1021183
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@f55d0c03c4e158a540c7c08b0ae1a491.node.tro.node-is.green:45087?allowInsecure=1&peer=console.ucloud.cn&sni=console.ucloud.cn#%E9%A6%99%E6%B8%AFBGP+%E4%B8%AD%E8%BD%AC+02+1.5x
 trojan://5d0d0c47-1e55-30c4-91dd-c1a55d6ab260@54.238.135.78:443?allowInsecure=1#%E6%97%A5%E6%9C%AC_10212860
 trojan://your_password@aws-ca-central-1.f1cflineb.com:443?security=tls&sni=aws-ca-central-1.f1cflineb.com&fp=chrome&type=ws&path=%2Ff1rocket&host=aws-ca-central-1.f1cflineb.com#RELAY%F0%9F%9A%A9+%7C+aws-ca-central-1.f1cflineb.com-443+%7C+45.63ms
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:10563?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_1014293
@@ -3082,13 +3050,13 @@ trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?allowInsecure=1&sni
 trojan://tg-dns68@162.159.152.253:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122321
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls#%E6%97%A5%E6%9C%AC-74.226.136.204-4132
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@2af85489cb021cccfc2533eaae18fc2f.v1.cac.node-is.green:42750#%E9%A6%99%E6%B8%AF_1021748
-trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@71671f3454191ed21432e57139d917da.v1.cac.node-is.green:43316?allowInsecure=1&peer=us1.speedtest.net&sni=us1.speedtest.net#V1-%E7%BE%8E%E5%9B%BD
 trojan://Tel-DailyConfigs@104.18.41.190:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_102122327
 trojan://95b@46.254.92.201:2053#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021658
 trojan://c533cb40-a038-11ee-9537-1239d0255272@172.67.194.57:443?type=ws&sni=us1.test3.net&allowInsecure=1&path=/howdy&host=us1.test3.net#%E7%BE%8E%E5%9B%BD_102128433
 trojan://auto@172.67.179.212:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&fp=randomized&type=ws&path=/?ed%3D2560&host=nameless-term-9c25.vpnconnect202020.workers.dev#%E7%BE%8E%E5%9B%BD_102127804
 trojan://95b@5.182.84.244:443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021659
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErS.dev:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErS.dev&alpn=h2&fp=firefox&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrKErS.dev#%E6%9C%AA%E7%9F%A5_102123596
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@bf2206a596f020fdab1de43d2ace051d.v1.cac.node-is.green:41334?allowInsecure=1&peer=us1.speedtest.net&sni=us1.speedtest.net#V1-%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-directvpn@13.50.26.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92+TR-TCP-TLS+%E7%91%9E%E5%85%B8-13.50.26.103%3A22222
 trojan://your_password@3.27.95.146:443?security=tls&sni=aws-aus-sydney-1.f1rocketnode.com&type=tcp#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%7C+aws-aus-sydney-1.f1rocketnode.com-443+%7C+229.55ms
 trojan://06965bf3-365f-44b3-8b6a-ad0334c3da5d@zzus01.fuqiangren.com:20220?sni=zzus01.fuqiangren.com#%E7%BE%8E%E5%9B%BD_102128434
@@ -3102,7 +3070,7 @@ trojan://trojan%3A//bpb-trojan@104.18.23.235:443?allowInsecure=0&sni=403b3611-99
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freetw01.jd0001.top:10390?peer=freetw01.jd0001.top&sni=freetw01.jd0001.top&type=grpc&security=tls&serviceName=freetw01#%E8%8D%B7%E5%85%B0_10211050
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.243:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122340
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.232:443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122345
-trojan://ypDt8RkT7J@185.180.13.70:43118#ChatGPT+%E7%BE%8E%E5%9B%BD_1378
+trojan://ypDt8RkT7J@185.180.13.70:43118#ChatGPT+%E7%BE%8E%E5%9B%BD_1410
 trojan://7f1ab4bf-f28c-405b-afcc-0bc780358c2a@32fa2ce8a6f66ec5b9c176fc61842b6b.node.tro.node-is.green:46527#%E9%A6%99%E6%B8%AF_10211060
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkers.dEv:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkers.dEv&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkers.dEv#%E6%9C%AA%E7%9F%A5_102123403
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.DEV:2087?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkeRs.DEV#%E7%BE%8E%E5%9B%BD_102127690
@@ -3153,7 +3121,7 @@ trojan://18844%40zxcvbn@os-tr-5.cats22.net:443?type=tcp&allowInsecure=1#%E6%97%A
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.17:443?security=tls&sni=2jp4.pqjc.buzz&type=tcp#RELAY%F0%9F%9A%A9+%7C+2jp4.pqjc.buzz-443+%7C+21.46ms
 trojan://b8ec1401-e5c1-4299-b315-9694cca0c2f8@64.52.108.181:443?type=tcp&sni=64.52.108.181&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128462
 trojan://95b@154.26.238.76:40719#%E7%BE%8E%E5%9B%BD_102128463
-trojan://e4818e8930644822aa7d15cc805e3fd7@185.4.64.225:443?security=tls&sni=www.gpt123.one&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
+trojan://e4818e8930644822aa7d15cc805e3fd7@185.4.64.225:443?security=tls&sni=www.gpt123.one&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_1021022
 trojan://DailyConfigs@104.18.6.21:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_102122405
 trojan://bpb-trojan@104.18.34.21:2053?sni=bpB-worKER-paneL1-e4p.pAGes.dEV&allowInsecure=0#%F0%9F%94%92+TR-TCP-NA+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.18.34.21%3A2053
 trojan://dd3b2971-2e5e-49c4-8de9-62aca12ff466@172.67.221.114:443?allowInsecure=1&sni=cdn.miladfaryad.cf#%E7%BE%8E%E5%9B%BD_102128464
@@ -3196,7 +3164,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://CMLiu@104.20.27.224:2096?type=ws&sni=trojan.pagess.filegear-sg.me&allowInsecure=1&path=/&host=trojan.pagess.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A5_102122455
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKeRS.Dev:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKeRS.Dev&alpn=h2%2Chttp%2F1.1&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.worKeRS.Dev#%E7%BE%8E%E5%9B%BD_102127386
 trojan://95b@162.120.94.232:8443#%E7%BE%8E%E5%9B%BD_102128486
-trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@hknode06.oportal.cc:443#%E9%A6%99%E6%B8%AF_269
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@hknode06.oportal.cc:443#%E9%A6%99%E6%B8%AF_277
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkERS.DeV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkERS.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkERS.DeV#%E7%BE%8E%E5%9B%BD_102127641
 trojan://4807b8ab-d74a-445e-9556-45a7ace4f6d6@cf.dalazhi.eu.org:443?security=tls&sni=tj2.dalazhi.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=puijtrojangrpc&mode=gun#%E6%9C%AA%E7%9F%A5_102122458
 trojan://5556bd90-c561-11ed-a5f6-1239d0255272@163.172.211.74:443?sni=@5556bd90-c561-11ed-a5f6-1239d0255272@163.172.211.74:443&sni=@VPNOD&security=tls&type=tcp:443&type=tcp&sni=@5556bd90-c561-11ed-a5f6-1239d0255272@163.172.211.74:443?sni=@5556bd90-c561-11ed-a5f6-1239d0255272@163.172.211.74:443&sni=@VPNOD&security=tls&type=tcp:443&type=tcp&sni=@VPNOD&allowInsecure=1:443?type=tcp:443&sni=@5556bd90-c561-11ed-a5f6-1239d0255272@163.172.211.74:443&allowInsecure=1#%E8%8D%B7%E5%85%B0_10211095
@@ -3259,6 +3227,7 @@ trojan://95b@27.50.49.251:2083#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021382
 trojan://XSt1gSqS05@rtl.ircf.space:443?allowInsecure=1&sni=star-one.cfd#%E7%BE%8E%E5%9B%BD_102128504
 trojan://your_password@aws-sg-1.f1rocketnode.com:443?security=tls&sni=aws-sg-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-sg-1.f1rocketnode.com#%E6%96%B0%E5%8A%A0%E5%9D%A1_SG_414
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10892?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212891
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@7f8ffb3b816330181fa634b544b4a25c.v1.cac.node-is.green:45662?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2024-11-10
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErS.dEV:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErS.dEV&alpn=http%2F1.1&fp=android&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wOrkErS.dEV#%E7%BE%8E%E5%9B%BD_102127726
 trojan://auto@172.66.44.106:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=/&fp=chrome#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.66.44.106%3A2053
 trojan://Telegram-DailyConfigs@104.18.7.36:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#%E6%9C%AA%E7%9F%A5_102122509
@@ -3271,6 +3240,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://ce70bd40-ec91-11ed-b9c8-1239d0255272@51.159.59.186:443?type=tcp&sni=namasha.com&allowInsecure=1#%E6%B3%95%E5%9B%BD_1021486
 trojan://95b@158.178.196.15:2053#%E8%8B%B1%E5%9B%BD_1021231
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14170?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128509
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@be24b41b223cee14dd8ccde60d66dca7.node.tro.node-is.green:43513?allowInsecure=1&peer=www.ahu.edu.cn&sni=www.ahu.edu.cn#%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BEBGP+%E4%B8%AD%E8%BD%AC+01+1.5x
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14183?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128510
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14187?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128511
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14192?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128512
@@ -3280,7 +3250,7 @@ trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#RELAY%F0%9F%9A%A9+%7C+3us2.pqjc.buzz-443+%7C+16.75ms
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkerS.dEv:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkerS.dEv&alpn=h2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkerS.dEv#%E7%BE%8E%E5%9B%BD_102127656
 trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERs.deV:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERs.deV&alpn=h3%2Ch2&fp=ios&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkERs.deV#%E7%BE%8E%E5%9B%BD_102127594
-trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443#_375
+trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443#_381
 trojan://95b@109.234.39.115:2053#%E8%8D%B7%E5%85%B0_10211098
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14209?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128514
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10944?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212893
@@ -3424,7 +3394,6 @@ trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10395?peer=fre
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:14060?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021201
 trojan://Daily-Configs-Channel@www.visa.com.mt:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_102122602
 trojan://0c6a3341e8d5ab17@5.44.249.53:3389?type=tcp&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021389
-trojan://0d4926a0-9881-3609-b6ee-4716da84e59emielink@85.117.235.179:443?security=tls&sni=paydiu.com&allowInsecure=1&fp=chrome&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AFRussian+Federation+-+Moscow+%F0%9F%8C%8D+TR-TCP-TLS+4%E2%83%A3
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:14085?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021202
 trojan://3648425794742788096@enabling-filly.opossum872.cfd:443?allowInsecure=1#%E9%9F%A9%E5%9B%BD_1021203
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@83b9780b9e4ef1caf0a87702f46e410d.v1.cac.node-is.green:41398?allowInsecure=1&peer=sg1.speedtest.net&sni=sg1.speedtest.net#%E9%A6%99%E6%B8%AF_1021733
@@ -3434,7 +3403,6 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.98:8443?type=ws&host=tjj
 trojan://8f2a62a0-f6ae-40c9-bdfa-f2adfd6788fa@104.20.128.75:443?allowInsecure=1&sni=cdnhid.vpweb.cfd#%E6%9C%AA%E7%9F%A5_102122605
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@6be3b7b6c67b50b867780b005400e346.v1.cac.node-is.green:46435#%E4%B8%AD%E5%9B%BD_1021321
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?sni=avianrecruit.com&allowInsecure=0#%F0%9F%94%92+TR-TCP-NA+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.19.159.144%3A443
-trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@b975ff4bd195eb91aca06a999999dc0d.node.tro.node-is.green:44341?allowInsecure=1&peer=api.ucloud.cn&sni=api.ucloud.cn#%E7%BE%8E%E5%9B%BDBGP+%E4%B8%AD%E8%BD%AC+04+1.5x
 trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&type=tcp#IN%E5%8D%B0%E5%BA%A6%7C+aws-in-mumbai-1.f1rocketnode.com-443+%7C+231.88ms
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.96:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122606
 trojan://0fb4f44f-82eb-452b-9570-066a07e31fb5@sg9.microsoft-orgwly.vip:443?type=tcp&sni=tls.microsoft-orgwly.vip&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1_1021390
@@ -3504,6 +3472,7 @@ trojan://NISHIKUITAN222@138.2.79.21:41002?security=tls&type=ws&host=t222.ylks.li
 trojan://95b@154.17.25.25:15248#%E7%BE%8E%E5%9B%BD_102128572
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:36544?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021277
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp01.jd0001.top:36552?peer=freejp01.jd0001.top&sni=freejp01.jd0001.top&type=grpc&security=tls&serviceName=freejp01#%E7%91%9E%E5%85%B8_1021278
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@c57581d1166d15179489b02b034aaca3.v1.cac.node-is.green:45662?allowInsecure=1&peer=hk12.speedtest.net&sni=hk12.speedtest.net#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14677?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128573
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp02.jd0001.top:14673?peer=freejp02.jd0001.top&sni=freejp02.jd0001.top&type=grpc&security=tls&serviceName=freejp02#%E7%BE%8E%E5%9B%BD_102128574
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10515?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212915
@@ -3603,3 +3572,34 @@ trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@a81c90ac83c18ef267770832f58d72b6.v
 trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10255?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212935
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@time.is:8443?security=tls&sni=vfarid.xcdi.wORKERS.DEv&alpn=http%2F1.1&type=ws&host=vfarid.xcdi.wORKERS.DEv&path=trojan-ws%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_102128592
 trojan://auto@203.184.132.238:1520?security=tls&sni=tg.cmliussss.us.kg&type=ws&host=tg.cmliussss.us.kg&path=%2F#%E9%A6%99%E6%B8%AF_1021851
+trojan://tg-dns68@162.159.152.204:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%E6%9C%AA%E7%9F%A5_102122642
+trojan://95b@103.116.7.220:2096#%E6%97%A5%E6%9C%AC_10212936
+trojan://tg-dns68@162.159.152.207:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5_102122643
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@795a9ac7b016e636005c97216b3b3660.v1.cac.node-is.green:45118?allowInsecure=1&peer=de1.speedtest.net&sni=de1.speedtest.net#%E6%97%A5%E6%9C%ACV1-%E5%BE%B7%E5%9B%BD
+trojan://Qu7nSemLSL@188.114.96.3:8880?security=none&type=ws&host=asp.varzesh313.ir#%E8%8D%B7%E5%85%B0_1021971
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10275?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212937
+trojan://tg-dns68@162.159.152.206:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.152.206%3A443
+trojan://tg-dns68@162.159.152.209:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.152.209%3A443
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freejp03.jd0001.top:10293?peer=freejp03.jd0001.top&sni=freejp03.jd0001.top&type=grpc&security=tls&serviceName=freejp03#%E6%97%A5%E6%9C%AC_10212938
+trojan://2f201f44-c107-45fb-b898-1c0c28e30edd@92.38.145.145:443?allowInsecure=1&sni=sw.g.esmahdi9.org#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1021115
+trojan://your_password@aws-us-oregon-1.f1rocketnode.com:443?allowInsecure=1&sni=aws-us-oregon-1.f1rocketnode.com#%E7%BE%8E%E5%9B%BD_102128595
+trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@bd8bf6b2eb27de42e60006b514c750f1.v1.cac.node-is.green:43814#%E4%B8%AD%E5%9B%BD_1021360
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKeRs.dEv:2053?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKeRs.dEv&alpn=h3%2Ch2&fp=ios&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WoRKeRs.dEv#%E7%BE%8E%E5%9B%BD_102127591
+trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ca1.aaaa.gay:4586#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1021375
+trojan://3648425794742788096@intense-tuna.opossum872.cfd:443?allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_1021365
+trojan://00b63120-5662-11ef-8be4-1239d0255272@www.speedtest.net:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=ws&path=/howdy&host=fr1.test3.net#%E6%9C%AA%E7%9F%A5_102122645
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.62:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122646
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.61:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122647
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkERS.deV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkERS.deV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkERS.deV#%E7%BE%8E%E5%9B%BD_102127687
+trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?type=tcp&sni=us3.trojanvh.xyz&allowInsecure=1#%E7%BE%8E%E5%9B%BD_102128596
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkErS.DEV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkErS.DEV&alpn=h2&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.WorkErS.DEV#%E6%9C%AA%E7%9F%A5_102123612
+trojan://a52732d0-ec92-11ed-8aa7-1239d0255272@51.159.59.186:443?type=tcp&sni=namasha.com&allowInsecure=1#%E6%B3%95%E5%9B%BD_1021494
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.60:8443?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%E6%9C%AA%E7%9F%A5_102122648
+trojan://mnk8fd@172.67.204.230:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Ff1rocket&host=aws-us-oregon-1.f1cflinec.com#RELAY%F0%9F%9A%A9+%7C+aws-us-oregon-1.f1cflinec.com-443+%7C+6.2ms
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkers.Dev:2096?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkers.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.woRkers.Dev#%E6%9C%AA%E7%9F%A5_102123810
+trojan://3648425794742788096@harmless-sheep.opossum872.cfd:443?allowInsecure=1#%E8%8B%B1%E5%9B%BD_1021232
+trojan://1e2c922b-ddc1-527e-945c-2fe3385c4897@floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkerS.DeV:443?type=ws&path=trojan-ws/?ed=2048&host=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkerS.DeV&alpn=h3%2Ch2&fp=edge&tls=1&sni=floral-unit-chain-hemo-redu-cedmic-roc-yticch-arane-miaglo-bihn.multifaceted3.wORkerS.DeV#%E6%9C%AA%E7%9F%A5_102123594
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:14799?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021232
+trojan://your_password@15.160.138.221:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#IT%E6%84%8F%E5%A4%A7%E5%88%A9%7C+aws-it-milan-1.f1rocketnode.com-443+%7C+178.98ms
+trojan://bc64f056-a20e-4944-abd0-f8f17c230e02@5ca4655c705484e8740b18128ace3c6b.node.tro.node-is.green:48974#%E9%A6%99%E6%B8%AF_10211004
+trojan://922a49fd-35cc-3dd1-acab-2a2bb8bd7432@freehr01.jd0001.top:14744?peer=freehr01.jd0001.top&sni=freehr01.jd0001.top&type=grpc&security=tls&serviceName=freehr01#%E9%9F%A9%E5%9B%BD_1021235
