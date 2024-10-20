@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config-Lite
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config-Lite
+vmess://eyJhZGQiOiIxMDQuMzEuMTYuMjAwIiwicG9ydCI6IjQ0MyIsImlkIjoiOTFhNGVkMWYtZjY5My00Njg1LWE2YmUtZjA5ODFkNmYyNjEzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMTAxODI3NDg4IiwiaG9zdCI6InRyZWUuYmxhbmt1Lm1lIiwicGF0aCI6Ii93c3MyODg4NSIsInRscyI6InRscyIsInNuaSI6InJvY2twLmJsYW5rdS5tZSIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
+vmess://eyJhZGQiOiI1LjE4OC4xMjEuMTM1IiwicG9ydCI6IjgwIiwiaWQiOiIyOGRiMTM5Yy1hZmYwLTRlZDgtODBmNS0zZTc0N2M0YzczN2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6IuS/hOe9l+aWr+iBlOmCpl8xMDE5MTM1IiwiaG9zdCI6Inh4Mnh4bC5kZG5zLm5ldCIsInBhdGgiOiIvbWVoZGkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.68.134.196:812#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.196-6986
 vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?path=/ApaRat.com?ed=2048&security=none&encryption=none&host=fiNland1.httpupgrademowji.bloG.&type=httpupgrade#@v2rayNGcloud🇫🇮
 vmess://eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwidiI6IjIiLCJwcyI6IklSXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IHwgbWVocmphdmFuLmlyLTQ0MyB8IDQ1MjUuMDRtcyIsInBvcnQiOjQ0MywiaWQiOiI1NzcyN2Q3ZC04ODczLTQwMDAtYjNmNC0zM2E5M2ZjZmRkNTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Im1laHJqYXZhbi5pciIsInBhdGgiOiJcL20yOGpjb1paVWhrcWc2cGsxMSIsInRscyI6InRscyJ9
@@ -3601,5 +3603,3 @@ trojan://74bf8d90-cd73-11ed-86f1-1239d0255272@108.165.216.227:443?type=ws&sni=de
 trojan://7bd8bd80-0be5-4299-8a2c-8fafd4c247df@193f1ddac554ac7451f8067bbe9f380f.v1.cac.node-is.green:40156?allowInsecure=1&peer=tw1.speedtest.net&sni=tw1.speedtest.net#%E4%B8%AD%E5%9B%BD_1014427
 vmess://eyJhZGQiOiAiMzcuMTIwLjIwOS4xMjYiLCAiYWlkIjogIjY0IiwgImhvc3QiOiAid3d3LjYwMDEzNzQ2Lnh5eiIsICJpZCI6ICJkYzBjZjIyZC1lMzVjLTRiNzctODkyNC05NzdmNjg0NDkwOWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwgInBvcnQiOiAiMzEwMDIiLCAicHMiOiAiR2l0aHViXHU2NDFjXHU3ZDIyVHJvamFuTGlua3MiLCAidGxzIjogInRscyIsICJ0eXBlIjogImR0bHMiLCAidiI6ICIyIn0=
 ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
-trojan://c09eb137-bf68-4658-84e0-102d94b74168@jgwdj4.gaox.ml:443?allowInsecure=1#%3a%e7%be%8e%e5%9b%bd-trojan-jgwdj4.gaox.ml%3a443-%e5%8f%af%e7%94%a8-%e4%b8%ad%e8%bd%ac%3a150.230.217.213-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
-vmess://eyJhZGQiOiIxNzIuNjcuMTUyLjE0MSIsInBvcnQiOiI4MCIsImlkIjoiYWJlOTYzZDctMDJjOS00MDNhLThiNWUtMjNlMDc1ZTY4ODEwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiLnvo7lm71fMTAxODIzNDkzIiwiaG9zdCI6IiIsInBhdGgiOiIvYmx1ZSIsInRscyI6IiIsInNuaSI6IiIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0=
